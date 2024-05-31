@@ -24,3 +24,11 @@
 1. Pentaho Demo: [請款費用](./pentaho/請款費用.ktr)
 2. Pentaho Demo: [Top100](./pentaho/TOP100.ktr)
 3. Tableau Prep Demo: [請款明細](./tableau/請款明細.tfl)
+
+## 補充資料
+1. [2024 TC2U: Tableau全球用戶大會創新發表(台灣)](https://docs.google.com/forms/d/1tsJ6XQxendYTBKtYgpVgysB6msM44t_MtsuqV8qnHtk/edit)
+2. Tableau Trial License 試用授權
+   - [Tableau 官網申請](https://www.tableau.com/products/trial)
+   - 找熟悉的經銷商，有機會提供產品的基本功能介紹，或半天/1天的學程
+   - 若無門路，可掃描QRCode  
+     <img src="https://github.com/arienchen/courses/assets/11719024/560803e3-6abf-4f65-b8fa-4aaec7937fab" width=100 />
