@@ -3,12 +3,20 @@
 ### ISO官方文件
 * [ISO IT and related technologies](https://www.iso.org/sectors/it-technologies)
 * [國家標準(CNS)網路服務系統](https://www.cnsonline.com.tw/)
+* [財團法人全國認證基金會 TAF 認證名錄](https://www.taftw.org.tw/directory/scheme/msv/)  
+  <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
+
+### Google 進階搜尋
+* [Google Advanced Search](https://www.google.com.tw/advanced_search)
+* [Google Search Operators 谷歌查詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
 
 ### 主管機關
-* [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．[資安安全專業證照清單](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/pwqTA78L7nyTFDm)
-* [數位發展部/國家資通安全研究院 NICS](https://www.nics.nat.gov.tw/)
+* [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．
+  [資通安全管理法及子法](https://moda.gov.tw/ACS/laws/regulations/624)．[資安安全專業證照清單](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/pwqTA78L7nyTFDm)
+* [數位發展部/國家資通安全研究院 NICS](https://www.nics.nat.gov.tw/)．[政府組態基準(GCB)](https://www.nics.nat.gov.tw/core_business/cybersecurity_defense/GCB/)
+* [數位發展部/數位產業署-資訊服務業落實個人資料保護暨資訊安全參考指引](https://ecos.org.tw/upload/files/ecos1.pdf) 
 * [金管會-金融資安行動方案](https://www.fsc.gov.tw/ch/home.jsp?id=975&parentpath=0) [金融資安人才地圖](https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202405061552070.pdf&filedisplay=%E9%87%91%E8%9E%8D%E8%B3%87%E5%AE%89%E4%BA%BA%E6%89%8D%E8%81%B7%E8%83%BD%E5%9C%B0%E5%9C%96_11304%E7%89%88.pdf)
-* [證交所：上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
+* [證交所-資通安全專區](https://dsp.twse.com.tw/informationSecurity/list)．[上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
   
 ### 資安新聞
 * [`2001/09/19` 《納莉颱風整理報導》中華電信近20處機房淹水，35萬戶市話停話、經搶修剩8萬待修戶](https://www.ithome.com.tw/news/14428)
@@ -60,6 +68,14 @@
 * [`2024/07/05` 行政院會通過「資通安全管理法」修正草案明確化法律位階，強化聯防](https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11130)
 * [`2024/07/23` 金管會揭露CrowdStrike事故對臺金融業災情，保險業上千臺伺服器和上千臺PC受影響](https://www.ithome.com.tw/news/164084)
 
+### 個資保護
+* [全國法規資料庫-個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021)
+* [個人資料保護法之特定目的及個人資料之類別](https://theme.ndc.gov.tw/lawout/LawContent.aspx?id=GL000316)
+
+### 情資中心
+* [金融資安資訊分享與研究中心 F-ISAC](https://www.fisac.tw/)
+* [台灣電腦網路維玆處理暨協調中心 TWCERT](https://www.twcert.org.tw/)．[台灣漏洞揭露平台 TVN](https://www.twcert.org.tw/tw/np-131-1.html)
+
 ### 漏洞資料庫及CVSS
 * [NIST NVD CVE/CPE](https://nvd.nist.gov/)．[CVSS Calculator v3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)．[CVSS Calculator v4.0](https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator)
 * [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) 
@@ -74,6 +90,9 @@
 ### 稽核準則
 * [IIA IPPF:2017](https://www.iia.org.tw/standarditl.aspx?id=83)
 * [IIA GIAS Global Internal Audit Standards](https://www.theiia.org/en/standards/2024-standards/global-internal-audit-standards/)
+
+### 維基百科 WIKI
+* [CAP定理](https://zh.wikipedia.org/zh-tw/CAP%E5%AE%9A%E7%90%86)
   
 ### 參考書籍
 * [線上申請 臺中圖書館帳號](https://rwd-library.taichung.gov.tw/webpac_rwd/web_register.cfm)
