@@ -8,7 +8,9 @@
 
 ### Google 進階搜尋
 * [Google Advanced Search](https://www.google.com.tw/advanced_search)
-* [Google Search Operators 谷歌查詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
+* [Google Search Operators 谷歌搜詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
+* 範例：`資訊安全管理 政策 filetype:pdf`       
+  <img width="740" alt="image" src="https://github.com/user-attachments/assets/15fc7b2f-65f3-4b80-9333-6550dba9e106">
 
 ### 主管機關
 * [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．
