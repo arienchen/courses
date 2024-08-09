@@ -5,8 +5,9 @@
 * [國家標準(CNS)網路服務系統](https://www.cnsonline.com.tw/)
 
 ### 主管機關
-* [數位發展部/資通安全署](https://moda.gov.tw/ACS/)
+* [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．[資安安全專業證照清單](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/pwqTA78L7nyTFDm)
 * [數位發展部/國家資通安全研究院 NICS](https://www.nics.nat.gov.tw/)
+* [金管會-金融資安行動方案](https://www.fsc.gov.tw/ch/home.jsp?id=975&parentpath=0) [金融資安人才地圖](https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202405061552070.pdf&filedisplay=%E9%87%91%E8%9E%8D%E8%B3%87%E5%AE%89%E4%BA%BA%E6%89%8D%E8%81%B7%E8%83%BD%E5%9C%B0%E5%9C%96_11304%E7%89%88.pdf)
 * [證交所：上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
   
 ### 資安新聞
