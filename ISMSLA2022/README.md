@@ -1,9 +1,14 @@
-### 
+## ISO 27001:2022 Lead Auditor 主導稽核員  課程補充
 
 ### ISO官方文件
 * [ISO IT and related technologies](https://www.iso.org/sectors/it-technologies)
 * [國家標準(CNS)網路服務系統](https://www.cnsonline.com.tw/)
 
+### 主管機關
+* [數位發展部/資通安全署](https://moda.gov.tw/ACS/)
+* [數位發展部/國家資通安全研究院 NICS](https://www.nics.nat.gov.tw/)
+* [證交所：上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
+  
 ### 資安新聞
 * [`2001/09/19` 《納莉颱風整理報導》中華電信近20處機房淹水，35萬戶市話停話、經搶修剩8萬待修戶](https://www.ithome.com.tw/news/14428)
 * [`2001/09/19` 《納莉颱風整理報導》部份電子商務網站慘兮兮](https://www.ithome.com.tw/news/14429)
@@ -15,7 +20,9 @@
 * [`2012/11/09` 因應個資法實施 Log管理重要性大增](https://www.ithome.com.tw/tech/77197)
 * [`2013/03/04` 是方電訊大樓機房失火釀全臺網路大當機，10年來最慘烈網路災難](https://www.ithome.com.tw/node/79046)
 * [`2013/03/22` 是方電訊大樓機房失火，燒出4大問題](https://www.ithome.com.tw/news/86911)
+* [`2016/07/09` 一銀全台22家分行總計41台Wincor廠牌ATM遭密集盜領](https://www.ithome.com.tw/article/107291)
 * [`2017/09/13` 認識4種臺灣常見的資安保險](https://www.ithome.com.tw/news/116740)
+* [`2017/10/03` 【遠東銀行遭駭追追追】駭客搶銀行，臺灣二度淪陷](https://www.ithome.com.tw/article/117399)
 * [`2018/07/26` 中小企業也有適用的資安險，明台產險推因應個資新法的保單](https://www.ithome.com.tw/news/124777)
 * [`2018/08/21` OpenSSL存在旁路攻擊漏洞，光靠攔截手機電磁訊號就能取得金鑰](https://www.ithome.com.tw/news/125370)
 * [`2019/01/10` 財金公司ATM跨行交易去年大當機 首遭罰150萬](https://www.cna.com.tw/news/afe/201901100254.aspx)
@@ -30,6 +37,7 @@
 * [`2022/08/11` 思科坦承遭網路攻擊，公布完整攻擊鏈](https://www.ithome.com.tw/news/152437)
 * [`2022/09/23` 摩根史坦利廢棄硬碟與伺服器未妥善處理，洩露客戶資料，遭罰3,500萬美元](https://www.ithome.com.tw/news/153206)
 * [`2023/04/24` 調查局失火地點就在廉政大樓...機密資料、資安處機房全都在這！](https://www.businesstoday.com.tw/article/category/183027/post/202304240049/)
+* [`2023/07/18` 台積電櫃檯「來賓登記簿的小鐵夾」](https://www.businesstoday.com.tw/article/category/183034/post/202307110013/)
 * [`2023/08/08` 研究人員以AI模型竊聽鍵盤聲可達到95%的準確率](https://www.ithome.com.tw/news/158171)
 * [`2023/09/07` 微軟揭露金鑰遭盜過程，系統當機報告曝露消費者簽章金鑰](https://www.ithome.com.tw/news/158631)
 * [`2024/02/06` 駭客利用 Deepfake 視訊會議從跨國企業員工騙得2億港幣](https://www.ithome.com.tw/news/161212)
@@ -50,4 +58,27 @@
 * [`2024/06/17` 駭客組織Scattered Spider鎖定IT服務人員發動社交工程攻擊，竊取各式SaaS應用程式機密資料](https://www.ithome.com.tw/news/163500)
 * [`2024/07/05` 行政院會通過「資通安全管理法」修正草案明確化法律位階，強化聯防](https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11130)
 * [`2024/07/23` 金管會揭露CrowdStrike事故對臺金融業災情，保險業上千臺伺服器和上千臺PC受影響](https://www.ithome.com.tw/news/164084)
-* 
+
+### 漏洞資料庫及CVSS
+* [NIST NVD CVE/CPE](https://nvd.nist.gov/)．[CVSS Calculator v3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)．[CVSS Calculator v4.0](https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator)
+* [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) 
+* [FIRST CVSS](https://www.first.org/cvss/)．[CVSS 4.0 Calculator](https://www.first.org/cvss/calculator/4.0)
+
+### [OWASP](https://owasp.org) 
+* [OWASP Top 10:2021](https://owasp.org/Top10/)
+* [OWASP Mobile Application Security](https://mas.owasp.org/)
+* [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)
+* [OWASP Dependency-Track](https://owasp.org/www-project-dependency-track/)
+
+### 稽核準則
+* [IIA IPPF:2017](https://www.iia.org.tw/standarditl.aspx?id=83)
+* [IIA GIAS Global Internal Audit Standards](https://www.theiia.org/en/standards/2024-standards/global-internal-audit-standards/)
+  
+### 參考書籍
+* [線上申請 臺中圖書館帳號](https://rwd-library.taichung.gov.tw/webpac_rwd/web_register.cfm)
+* [安裝電子書 HyRead 手機 APP(iOS/Android/PC)](https://taichunggov.ebook.hyread.com.tw/Template/RWD3.0/download.jsp)
+* [加入/登入圖書館]   
+  <img width="470" alt="image" src="https://github.com/user-attachments/assets/5ac81ea5-b4f8-4900-8c53-010704a95e8e">
+* 查詢書名：[查核心法](https://www.sanmin.com.tw/product/index/010842512)   
+  ![image](https://github.com/user-attachments/assets/81351599-aca5-4714-a00b-b900af4fccea)
+
