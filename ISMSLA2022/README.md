@@ -87,10 +87,15 @@
 * [FIRST CVSS](https://www.first.org/cvss/)．[CVSS 4.0 Calculator](https://www.first.org/cvss/calculator/4.0)
 
 ### [OWASP](https://owasp.org) 
-* [OWASP Top 10:2021](https://owasp.org/Top10/)
+* [OWASP Top 10:2021](https://owasp.org/Top10/zh_TW/)
 * [OWASP Mobile Application Security](https://mas.owasp.org/)
 * [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)
 * [OWASP Dependency-Track](https://owasp.org/www-project-dependency-track/)
+
+* OWASP Top 10: 2017 vs 2021
+
+  <img src="https://owasp.org/Top10/zh_TW/assets/image1.png" />
+
 
 ### 稽核準則
 * [IIA IPPF:2017](https://www.iia.org.tw/standarditl.aspx?id=83)
