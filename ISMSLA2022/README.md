@@ -10,7 +10,7 @@
 * [Google Advanced Search](https://www.google.com.tw/advanced_search)
 * [Google Search Operators 谷歌搜詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
 * 範例：`資訊安全管理 政策 filetype:pdf`       
-  <img width="740" alt="image" src="https://github.com/user-attachments/assets/15fc7b2f-65f3-4b80-9333-6550dba9e106">
+  <img  alt="image" src="https://github.com/user-attachments/assets/15fc7b2f-65f3-4b80-9333-6550dba9e106">
 
 ### 主管機關
 * [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．
@@ -96,9 +96,57 @@
 * [IIA IPPF:2017](https://www.iia.org.tw/standarditl.aspx?id=83)
 * [IIA GIAS Global Internal Audit Standards](https://www.theiia.org/en/standards/2024-standards/global-internal-audit-standards/)
 
-### 維基百科 WIKI
-* [CAP定理](https://zh.wikipedia.org/zh-tw/CAP%E5%AE%9A%E7%90%86)
+### 技術參考及維基百科 WIKI
+* [CAP定理](https://zh.wikipedia.org/zh-tw/CAP%E5%AE%9A%E7%90%86)   
+  <img width="251" alt="image" src="https://github.com/user-attachments/assets/9a1f8f9d-500e-4737-a22e-2b32e59358ed">    
+  + Consistency 一致性
+  + Availability 可用性
+  + Partition Tolerance 分區容錯性
+
+  **_不可能同時滿足三個條件_**<br>
+
+
+  > 舉例：
+  > Oracle RAC 滿足 CA 條件，同時提供資料的一致性及可用性
+  > 若架構改為異地(提高 P-分區容錯性)，則須將原 RAC 改為 Replication(GoldenGate)或應用程式的資料同步機制
+  > 1. 若要維持資料一致性，則資料儲存方式，必須採用 2 phase-commit，交易延遲時間變長，可用性降低
+  > 2. 若要維持可用性，交易延遲時間不變，因未採用 2 phase-commit ，降低資料一致性(有時間差)，及 dirty-read, dirty-write 問題
+
+* [PKI Public Key Infrastructure](https://zh.wikipedia.org/zh-tw/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD) 
+  + PKI 有二把KEY：公鑰 Public Key 及私鑰 Private Key
+  + 二把 Key 具有上鎖及解鎖，且互解功能(公鑰上鎖，只能私鑰解鎖；反之，私鑰上鎖，只能公鑰解鎖)。
+ 
+  + PKI 加密機制   
+    加密(只有A能看)：B用A的公鑰加密，傳送給A，只有A自己的私鑰可解   
+    <img width="523" alt="image" src="https://github.com/user-attachments/assets/1ce4adf0-5dd1-4549-8583-b4fa2b68c3cb">
+    
+  + PKI 不可否認性   
+    不可否認性：「就是你做的」；「對，就是我做的」(或反向)<br>
+    加簽(就是A作的)：A用A的私鑰加密，傳送給B(或任何人)，若B用A的公鑰可以解，表示來自A<br>
+    <img width="536" alt="image" src="https://github.com/user-attachments/assets/fb146d0b-c9fd-44c8-a074-02aa2f5f122c">
+
+  + PKI 一致性+不可否認性   
+    1. A將本文生成「訊息摘要」(雜湊，如：SHA-3)
+    2. 將「訊息摘要」加簽：A用A的私鑰加密
+    3. A將本文及加簽的訊息摘要，傳送給B(或任何人)
+    4. B用相同演算法，將本文生成「訊息摘要B」
+    5. B用A的公鑰，將「加簽的訊息摘要」解密為「訊息摘要A」
+    6. 若「訊息摘要A」=「訊息摘要B」，本文之一致性，且為A所加簽
+    7. 若A將本文及「加簽的訊息摘要」，以B的公鑰加密再傳送，確保只有B可解* 
+
+* 對稱金鑰 vs 非對稱金鑰   
+  | |對稱金鑰|非對稱金鑰|
+  |:----|:-------|:-------|
+  |數量|一把|二把：公鑰+私鑰|
+  |運作方式|加解密需使用同一把|互解：一把加密，需用另一把解密|
+  |範例|ZIP加密、Excel密碼保護、Session Key|PKI|
+  |安全要求|金鑰需安全的交換|私鑰需安全的保管，公鑰可隨意交換|
+  |特性|加解密速度快(視金鑰的長度)|加解密速度慢(相對同長度之對稱金鑰|
+  |特殊應用| |TLS使用PKI交換 Session Key，建立連線後，以Session Key作為互相傳輸加密機制|
   
+
+* 
+
 ### 參考書籍
 * [線上申請 臺中圖書館帳號](https://rwd-library.taichung.gov.tw/webpac_rwd/web_register.cfm)
 * [安裝電子書 HyRead 手機 APP(iOS/Android/PC)](https://taichunggov.ebook.hyread.com.tw/Template/RWD3.0/download.jsp)
