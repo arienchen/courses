@@ -41,7 +41,7 @@
   [`CNS 27006:2018/Amd.1:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 (46頁)
 * [`ISO/IEC 27007:2020`](https://www.iso.org/standard/77802.html) Guidelines for ISMS auditing (39 pages)<br>
   資訊安全管理系統稽核指引
-* [`ISO/IEC TS 27008:2019`] Guidelines for the assessment of information security controls (91 pages)<br>
+* [`ISO/IEC TS 27008:2019`](https://www.iso.org/standard/67397.html) Guidelines for the assessment of information security controls (91 pages)<br>
   資訊安全控制措施之評鑑指引
 * [`ISO/IEC 27010:2015`](https://www.iso.org/standard/68427.html) Information security management for inter-sector and inter-organizational communications (32 pages)<br>
   [`CNS 27010:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27010&locale=zh_TW) 跨部門及跨組織通訊之資訊安全管理 (35頁)
