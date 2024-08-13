@@ -10,7 +10,8 @@
 * [Google Advanced Search](https://www.google.com.tw/advanced_search)
 * [Google Search Operators 谷歌搜詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
 * 範例：`資訊安全管理 政策 filetype:pdf`       
-  <img  alt="image" src="https://github.com/user-attachments/assets/15fc7b2f-65f3-4b80-9333-6550dba9e106">
+  <img width="759" alt="image" src="https://github.com/user-attachments/assets/37fc2e5e-0315-45cb-a58b-0e079d913992">
+
 
 ### 主管機關
 * [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．
@@ -86,12 +87,6 @@
 |偵測 Detective|tries to identify/notify when something bad actually happens, like an audit log|
 |修正 Correcttive|tries to fix or recover from the bad thing that happened, like terminating an employee|
 
-
-|Control Categories(型)|Description|
-|:--|:--|
-|管理型 Management|refers to policy or human related controls, such as policy development|
-|營運型 Operational|relating to processes or day-to-day operations, such as account provisioning|
-|技術型 Technical|something that technology handles, such as authentication|
 
 |Control Categories(型)|Description|
 |:--|:--|
