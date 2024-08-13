@@ -6,6 +6,33 @@
 * [財團法人全國認證基金會 TAF 認證名錄](https://www.taftw.org.tw/directory/scheme/msv/)  
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
 
+### ISO 管理系統
+#### Information technology-Security techniques 資訊技術－安全技術
+* [`ISO/IEC 27000:2018`](https://www.iso.org/standard/73906.html) Information security management systems-Overview and vocabulary (27 pages)<br>
+  [`CNS27000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (37 pages)
+* [`ISO/IEC 27001:2022`](https://www.iso.org/standard/27001) Information security, cybersecurity and privacy protection — Information security management systems — Requirements (19 pages)<br>
+  [`ISO/IEC 27001:2022/Amd 1:2024`](https://www.iso.org/standard/88435.html) Amendment 1: Climate action changes<br>
+  [CNS27001:2024](https://www.cnsonline.com.tw/?node=detail&generalno=27001&locale=zh_TW) 資訊安全、網宇安全及隱私保護－資訊安全管理系統－要求事項
+  
+* `ISO/IEC 27002:2022` Information security controls (資訊安全控制措施)
+* `ISO/IEC 27003:2017` Information security management system implementation guidance (資訊安全管理系統實作指引)
+* `ISO/IEC 27004:2016` Information Security Management - Measurement (資訊安全管理-量測)
+* `ISO/IEC 27005:2022` Information security risk management (資訊安全風險管理)
+* `ISO/IEC 27006-1:2024`    Requirements for bodies providing audit and certification of information security management systems/Part 1:General (提供資訊安全管理系統稽核與驗證機構之要求 Part 1:一般要求)
+* `ISO/IEC TS 27006-2:2021` Requirements for bodies providing audit and certification of information security management systems/Part 2: Privacy information management systems (提供資訊安全管理系統稽核與驗證機構之要求 Part 2:隱私資訊管理系統)
+* `ISO/IEC 27007:2020` Guidelines for Information security management systems auditing (資訊安全管理系統稽核指引)
+* `ISO/IEC TS 27008` Guidelines for the assessment of information security controls (資訊安全控制措施之評鑑指引)    
+* `ISO/IEC 27010:` Information security management for inter-sector and inter-organizational communications (跨部門及跨組織通訊之資訊安全管理)
+* `ISO/IEC 27011:` Information security controls based on ISO/IEC 27002 for telecommunications organizations (電信事業基於 ISO/IEC 27002 之資訊安全控制措施)
+* `ISO/IEC 27013:2021` Guidance on the integrated implementation of ISO/IEC 27001 and ISO/IEC 20000-1 (整合ISO/IEC 27001與ISO/IEC 20000-1實作指引)
+* `ISO/IEC 27014:2020` Governance of information security (資訊安全治理)
+* `ISO/IEC TR 27016:2014` Information Security Management – Organizational economics (資訊安全管理-組織經濟學)
+* `ISO/IEC 27017:2015` Code of practice for information security controls based on ISO/IEC 27002 for cloud services (基於 ISO/IEC 27002 之雲端服務控制措施作業規範)
+* `ISO/IEC 27018:2019` Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors (公用雲PII 處理者保護個人可識別資訊(PII)之作業規範)
+* `ISO/IEC 27701:2019` Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management -- Requirements and guidelines (用於隱私資訊管理之 ISO/IEC 27001及ISO/IEC 27002 延伸 – 要求事項及指導綱要)
+`ISO 27799:2016` Health informatics – Information security management in health using ISO/IEC 27002 (應用ISO/IEC 27002之醫療體系資訊安全管理)
+    
+
 ### Google 進階搜尋
 * [Google Advanced Search](https://www.google.com.tw/advanced_search)
 * [Google Search Operators 谷歌搜詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
