@@ -7,17 +7,17 @@
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
 
 ### ISO 管理系統
-* [ISO 9000:2015](https://www.iso.org/standard/45481.html) Quality management systems — Fundamentals and vocabulary (51 pages)<br>
-  [CNS 12680:2106](https://www.cnsonline.com.tw/?node=detail&generalno=12680&locale=zh_TW) 品質管理系統－基本原理與詞彙 (55 頁)
-* [ISO 9001:2015](https://www.iso.org/standard/62085.html) Quality management systems — Requirements (29 pages)<br>
+* [`ISO 9000:2015`](https://www.iso.org/standard/45481.html) Quality management systems — Fundamentals and vocabulary (51 pages)<br>
+  [`CNS 12680:2106`](https://www.cnsonline.com.tw/?node=detail&generalno=12680&locale=zh_TW) 品質管理系統－基本原理與詞彙 (55 頁)
+* [`ISO 9001:2015`](https://www.iso.org/standard/62085.html) Quality management systems — Requirements (29 pages)<br>
   品質管理系統-要求事項<br>
-  [ISO 9001:2015/Amd 1:2024](https://www.iso.org/standard/88431.html) Quality management systems — Requirements **Amendment 1: Climate action changes** (1 page) 
-* [ISO Guide 73](https://www.iso.org/standard/44651.html) Risk management — Vocabulary (15 pages) $${\color{red}已於2023/11/02註銷}$$<br>  
-  [CNS 14889:2012](https://www.cnsonline.com.tw/?node=detail&generalno=14889&locale=zh_TW) 風險管理－詞彙 (13頁)
-* [ISO 31000:2018](https://www.iso.org/standard/65694.html) Risk management — Guidelines (16 pages)<br>
-  [CNS 31000:2021](https://www.cnsonline.com.tw/?node=detail&generalno=31000&locale=zh_TW) 風險管理－指導綱要 (18頁)
-* [ISO 19011:2018](https://www.iso.org/standard/70017.html) Guidelines for auditing management systems (46 pages)<br>
-  [CNS 14809:2020](https://www.cnsonline.com.tw/?node=detail&generalno=14809&locale=zh_TW) 管理系統稽核指導綱要 (47頁)
+  [`ISO 9001:2015/Amd 1:2024`](https://www.iso.org/standard/88431.html) Quality management systems — Requirements **Amendment 1: Climate action changes** (1 page) 
+* [`ISO Guide 73`](https://www.iso.org/standard/44651.html) Risk management — Vocabulary (15 pages) $${\color{red}已於2023/11/02註銷}$$<br>  
+  [`CNS 14889:2012`](https://www.cnsonline.com.tw/?node=detail&generalno=14889&locale=zh_TW) 風險管理－詞彙 (13頁)
+* [`ISO 31000:2018`](https://www.iso.org/standard/65694.html) Risk management — Guidelines (16 pages)<br>
+  [`CNS 31000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=31000&locale=zh_TW) 風險管理－指導綱要 (18頁)
+* [`ISO 19011:2018`](https://www.iso.org/standard/70017.html) Guidelines for auditing management systems (46 pages)<br>
+  [`CNS 14809:2020`](https://www.cnsonline.com.tw/?node=detail&generalno=14809&locale=zh_TW) 管理系統稽核指導綱要 (47頁)
   
   
 #### Information security, cybersecurity and privacy protection <br>資訊安全、網宇安全及隱私保護
