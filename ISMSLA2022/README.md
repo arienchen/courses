@@ -7,24 +7,38 @@
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
 
 ### ISO 管理系統
+* [ISO 9000:2015](https://www.iso.org/standard/45481.html) Quality management systems — Fundamentals and vocabulary (51 pages)<br>
+  [CNS 12680:2106](https://www.cnsonline.com.tw/?node=detail&generalno=12680&locale=zh_TW) 品質管理系統－基本原理與詞彙 (55 頁)
+* [ISO 9001:2015](https://www.iso.org/standard/62085.html) Quality management systems — Requirements (29 pages)<br>
+  品質管理系統-要求事項<br>
+  [ISO 9001:2015/Amd 1:2024](https://www.iso.org/standard/88431.html) Quality management systems — Requirements **Amendment 1: Climate action changes** (1 page) 
+* [ISO Guide 73](https://www.iso.org/standard/44651.html) Risk management — Vocabulary (15 pages) [**已於 2023/11/02註銷**]<br>  
+  [CNS 14889:2012](https://www.cnsonline.com.tw/?node=detail&generalno=14889&locale=zh_TW) 風險管理－詞彙 (13頁)
+* [ISO 31000:2018](https://www.iso.org/standard/65694.html) Risk management — Guidelines (16 pages)<br>
+  [CNS 31000:2021](https://www.cnsonline.com.tw/?node=detail&generalno=31000&locale=zh_TW) 風險管理－指導綱要 (18頁)
+* [ISO 19011:2018](https://www.iso.org/standard/70017.html) Guidelines for auditing management systems (46 pages)<br>
+  [CNS 14809:2020](https://www.cnsonline.com.tw/?node=detail&generalno=14809&locale=zh_TW) 管理系統稽核指導綱要 (47頁)
+  
+  
 #### Information security, cybersecurity and privacy protection <br>資訊安全、網宇安全及隱私保護
 * [`ISO/IEC 27000:2018`](https://www.iso.org/standard/73906.html) Information security management systems-Overview and vocabulary (27 pages)<br>
-  [`CNS 27000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (37 pages)
+  [`CNS 27000:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (39 pages)
 * [`ISO/IEC 27001:2022`](https://www.iso.org/standard/27001) Information security management systems — Requirements (19 pages)<br>
   [`ISO/IEC 27001:2022/Amd 1:2024`](https://www.iso.org/standard/88435.html) Amendment 1: Climate action changes<br>
-  [`CNS 27001:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27001&locale=zh_TW) 資訊安全管理系統－要求事項 (24頁)
+  [`CNS 27001:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27001&locale=zh_TW) 資訊安全管理系統－要求事項 (29頁)
 * [`ISO/IEC 27002:2022`](https://www.iso.org/standard/75652.html) Information security controls (152 pages)<br>
-  [`CNS 27002:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27002&locale=zh_TW) 資訊安全控制措施 (160頁)
+  [`CNS 27002:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27002&locale=zh_TW) 資訊安全控制措施 (162頁)
 * [`ISO/IEC 27003:2017`](https://www.iso.org/standard/63417.html) Information security management systems — Guidance (45 pages)<br>
-  [`CNS 27003:2019`](https://www.cnsonline.com.tw/?node=detail&generalno=27003&locale=zh_TW) 資訊安全管理系統實作指引 (61頁)
+  [`CNS 27003:2014`](https://www.cnsonline.com.tw/?node=detail&generalno=27003&locale=zh_TW) 資訊安全管理系統實作指引 (61頁)
 * [`ISO/IEC 27004:2016`](https://www.iso.org/standard/64120.html) Information Security Management-Monitoring, measurement, analysis and evaluation (58 pages)<br>
-  [`CNS 27004:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27004&locale=zh_TW) 資訊安全管理-量測 (60頁)
+  [`CNS 27004:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27004&locale=zh_TW) 資訊安全管理-量測 (60頁)
 * [`ISO/IEC 27005:2022`](https://www.iso.org/standard/80585.html) Guidance on managing information security risks (62 pages)<br>
-  [`CNS 27005:2019`](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全風險管理 (58頁)
+  [`CNS 27005:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全風險管理 (58頁)
 * [`ISO/IEC 27006-1:2024`](https://www.iso.org/standard/82908.html) Requirements for bodies providing audit and certification of ISMS **Part 1:General** (47 pages)<br>
-  [`CNS 27006:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 **Part 1:一般要求** (46頁)
-* [`ISO/IEC TS 27006-2:2021`](https://www.iso.org/standard/71676.html) Requirements for bodies providing audit and certification of ISMS **Part 2: Privacy information management systems** (9 pages)<br>
-  提供資訊安全管理系統稽核與驗證機構之要求 **Part 2:隱私資訊管理系統**
+  提供資訊安全管理系統稽核與驗證機構之要求 **Part 1:一般**<br>
+  [`ISO/IEC TS 27006-2:2021`](https://www.iso.org/standard/71676.html) Requirements for bodies providing audit and certification of ISMS **Part 2: Privacy information management systems** (9 pages)<br>
+  提供資訊安全管理系統稽核與驗證機構之要求 **Part 2:隱私資訊管理系統**<br>
+  [`CNS 27006:2018/Amd.1:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 (46頁)
 * [`ISO/IEC 27007:2020`](https://www.iso.org/standard/77802.html) Guidelines for ISMS auditing (39 pages)<br>
   資訊安全管理系統稽核指引
 * [`ISO/IEC TS 27008:2019`] Guidelines for the assessment of information security controls (91 pages)<br>
