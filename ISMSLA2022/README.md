@@ -78,6 +78,34 @@
 
 參考來源：ISACA CCAK Study Guide 
 
+### Security Controls 安全控制措施
+
+|Control Type(類)|Description|
+|:--|:--|
+|避免 Preventive|tries to prevent something bad from happening, like a fence|
+|偵測 Detective|tries to identify/notify when something bad actually happens, like an audit log|
+|修正 Correcttive|tries to fix or recover from the bad thing that happened, like terminating an employee|
+
+
+|Control Categories(型)|Description|
+|:--|:--|
+|管理型 Management|refers to policy or human related controls, such as policy development|
+|營運型 Operational|relating to processes or day-to-day operations, such as account provisioning|
+|技術型 Technical|something that technology handles, such as authentication|
+
+|Control Categories(型)|Description|
+|:--|:--|
+|實體型 Physical|related to facilities, such as the fence previously mentioned|
+|管理型 Administrative|related to policies and people processes, such as the hiring/firing process|
+|技術型 Technical|related to or controlled by technology, such as the audit logging capabilities|
+
+
+| |Preventive 避免|Detective 偵測|Corrective 修正|
+|:--|:--|:--|:--|
+|Physical<br>物理型|<ul><li>Locks</li><li>Security Guards</li><li>Fence<li>Gate</li></ul>|<ul><li>CCTV Cameras</li><li>Access Logs</li><li>Motion Sensors</li></ul>|<ul><li>Alarm Response</li><li>Incident Response</li><li>Backup Generators</li></ul>|
+|Technical<br>技術型|<ul><li>Firewall</li><li>IPS</li><li>Encryption</li><li>DLP</li></ul>|<ul><li>IDS</li><li>Antivirus</li><li>Anti-malware</li><li>Log Analysis</li></ul>|<ul><li>Patch Management</li><li>Data Backup/ReStore</li></ul>
+|Administrative<br>管理型|<ul><li>Security Policies</li><li>Background Checks</li><li>Access Controls</li><li>Least privilege</li></ul>|<ul><li>Audits</li><li>Mandatory Vacations</li><li>Awareness Training</li></ul>|<ul><li>Disciplinary Action</li><li>Reviewing and approving</li></ul>|
+
 
 ### 個資保護
 * [全國法規資料庫-個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0050021)
