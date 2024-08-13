@@ -7,61 +7,62 @@
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
 
 ### ISO 管理系統
-#### Information security, cybersecurity and privacy protection 資訊安全、網宇安全及隱私保護
+#### Information security, cybersecurity and privacy protection <br>資訊安全、網宇安全及隱私保護
 * [`ISO/IEC 27000:2018`](https://www.iso.org/standard/73906.html) Information security management systems-Overview and vocabulary (27 pages)<br>
-  [`CNS27000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (37 pages)
+  [`CNS 27000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (37 pages)
 * [`ISO/IEC 27001:2022`](https://www.iso.org/standard/27001) Information security management systems — Requirements (19 pages)<br>
   [`ISO/IEC 27001:2022/Amd 1:2024`](https://www.iso.org/standard/88435.html) Amendment 1: Climate action changes<br>
-  [CNS27001:2024](https://www.cnsonline.com.tw/?node=detail&generalno=27001&locale=zh_TW) 資訊安全管理系統－要求事項 (24頁)
+  [`CNS 27001:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27001&locale=zh_TW) 資訊安全管理系統－要求事項 (24頁)
 * [`ISO/IEC 27002:2022`](https://www.iso.org/standard/75652.html) Information security controls (152 pages)<br>
-  [CNS27002:2023](https://www.cnsonline.com.tw/?node=detail&generalno=27002&locale=zh_TW) 資訊安全控制措施 (160頁)
+  [`CNS 27002:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27002&locale=zh_TW) 資訊安全控制措施 (160頁)
 * [`ISO/IEC 27003:2017`](https://www.iso.org/standard/63417.html) Information security management systems — Guidance (45 pages)<br>
-  [`CNS27003:2019](https://www.cnsonline.com.tw/?node=detail&generalno=27003&locale=zh_TW) 資訊安全管理系統實作指引 (61頁)
+  [`CNS 27003:2019`](https://www.cnsonline.com.tw/?node=detail&generalno=27003&locale=zh_TW) 資訊安全管理系統實作指引 (61頁)
 * [`ISO/IEC 27004:2016`](https://www.iso.org/standard/64120.html) Information Security Management-Monitoring, measurement, analysis and evaluation (58 pages)<br>
-  [CNS27004:2023](https://www.cnsonline.com.tw/?node=detail&generalno=27004&locale=zh_TW) 資訊安全管理-量測 (60頁)
+  [`CNS 27004:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27004&locale=zh_TW) 資訊安全管理-量測 (60頁)
 * [`ISO/IEC 27005:2022`](https://www.iso.org/standard/80585.html) Guidance on managing information security risks (62 pages)<br>
-  [CNS27005:2019](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全風險管理 (58頁)
-* [`ISO/IEC 27006-1:2024`] Requirements for bodies providing audit and certification of ISMS/Part 1:General (47 pages)<br>
-  [CNS27006:2024](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 Part 1:一般要求 (46頁)
-* [`ISO/IEC TS 27006-2:2021`](https://www.iso.org/standard/71676.html) Requirements for bodies providing audit and certification of ISMS/Part 2: Privacy information management systems (9 pages)<br>
-  提供資訊安全管理系統稽核與驗證機構之要求 Part 2:隱私資訊管理系統
+  [`CNS 27005:2019`](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全風險管理 (58頁)
+* [`ISO/IEC 27006-1:2024`](https://www.iso.org/standard/82908.html) Requirements for bodies providing audit and certification of ISMS **Part 1:General** (47 pages)<br>
+  [`CNS 27006:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 **Part 1:一般要求** (46頁)
+* [`ISO/IEC TS 27006-2:2021`](https://www.iso.org/standard/71676.html) Requirements for bodies providing audit and certification of ISMS **Part 2: Privacy information management systems** (9 pages)<br>
+  提供資訊安全管理系統稽核與驗證機構之要求 **Part 2:隱私資訊管理系統**
 * [`ISO/IEC 27007:2020`](https://www.iso.org/standard/77802.html) Guidelines for ISMS auditing (39 pages)<br>
   資訊安全管理系統稽核指引
 * [`ISO/IEC TS 27008:2019`] Guidelines for the assessment of information security controls (91 pages)<br>
   資訊安全控制措施之評鑑指引
 * [`ISO/IEC 27010:2015`](https://www.iso.org/standard/68427.html) Information security management for inter-sector and inter-organizational communications (32 pages)<br>
-  [CNS27010:2013](https://www.cnsonline.com.tw/?node=detail&generalno=27010&locale=zh_TW) 跨部門及跨組織通訊之資訊安全管理 (35頁)
+  [`CNS 27010:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27010&locale=zh_TW) 跨部門及跨組織通訊之資訊安全管理 (35頁)
 * [`ISO/IEC 27011:2024`](https://www.iso.org/standard/80584.html) Information security controls based on ISO/IEC 27002 for telecommunications organizations (28 pages)<br>
 電信事業基於 ISO/IEC 27002 之資訊安全控制措施
 * [`ISO/IEC 27013:2021`](https://www.iso.org/standard/78752.html) Guidance on the integrated implementation of ISO/IEC 27001 and ISO/IEC 20000-1 (60 pages)<br>
   整合ISO/IEC 27001與ISO/IEC 20000-1實作指引
 * [`ISO/IEC 27014:2020`](https://www.iso.org/standard/78752.html) Governance of information security (13 pages)<br>
-  [`CNS27014:2013](https://www.cnsonline.com.tw/?node=detail&generalno=27014&locale=zh_TW) 資訊安全治理 (13頁)
+  [`CNS 27014:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27014&locale=zh_TW) 資訊安全治理 (13頁)
 * [`ISO/IEC TR 27016:2014`](https://www.iso.org/standard/43756.html) Information Security Management – Organizational economics (31 pages)<br>
-  [`CNS27016:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=27016&locale=zh_TW) 資訊安全管理-組織經濟學 (39頁)
+  [`CNS 27016:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=27016&locale=zh_TW) 資訊安全管理-組織經濟學 (39頁)
 * [`ISO/IEC 27017:2015`](https://www.cnsonline.com.tw/?node=detail&generalno=27016&locale=zh_TW) Code of practice for information security controls based on ISO/IEC 27002 for cloud services (30 pages)<br>
 基於 ISO/IEC 27002 之雲端服務控制措施作業規範
 * [`ISO/IEC 27018:2019`](https://www.iso.org/standard/76559.html) Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors (23 pages)<br>
-[CNS27018:2016](https://www.cnsonline.com.tw/?node=detail&generalno=27018&locale=zh_TW) 公用雲PII 處理者保護個人可識別資訊(PII)之作業規範 (30頁)
+[`CNS 27018:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=27018&locale=zh_TW) 公用雲PII 處理者保護個人可識別資訊(PII)之作業規範 (30頁)
 * [`ISO/IEC 27701:2019`](https://www.iso.org/standard/71670.html) Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management - Requirements and guidelines (66 pages)<br>
-[`CNS27701:2020](https://www.cnsonline.com.tw/?node=detail&generalno=27701&locale=zh_TW) 用於隱私資訊管理之 CNS 27001及 CNS 27002 延伸-要求事項及指導綱要 (73頁)
+[`CNS 27701:2020`](https://www.cnsonline.com.tw/?node=detail&generalno=27701&locale=zh_TW) 用於隱私資訊管理之 CNS 27001及 CNS 27002 延伸-要求事項及指導綱要 (73頁)
 * [`ISO 27799:2016`](https://www.iso.org/standard/62777.html) Health informatics – Information security management in health using ISO/IEC 27002 (99 pages)<br>
 應用ISO/IEC 27002之醫療體系資訊安全管理
+
 #### Cloud Computing 雲端運算
-* [ISO/IEC 19086-1:2016](https://www.iso.org/standard/67545.html) Cloud computing — Service level agreement (SLA) framework (34 pages)<br>
-  [CNS 19086-1:2017](https://www.cnsonline.com.tw/?node=detail&generalno=19086-1&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第1部：概觀與概念 (42頁)
-* [ISO/IEC 19086-2:2018](https://www.iso.org/standard/67546.html) Cloud computing — Service level agreement (SLA) framework **Part 2: Metric model** (39 pages)<br>
-  [ISO/IEC 19086-2:2018/Amd 1:2023](https://www.iso.org/standard/83762.html) Cloud computing — Service level agreement (SLA) framework — Part 2: Metric model **Amendment 1** (4 pages)<br>
-  [CNS 19086-2:2020](https://www.cnsonline.com.tw/?node=detail&generalno=19086-2&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第2部：度量模型 (46頁)
-* [ISO/IEC 19086-3:2017](https://www.iso.org/standard/67547.html) Cloud computing — Service level agreement (SLA) framework **Part 3: Core conformance requirements** (15 pages)<br>
-  [CNS 19086-3:2018](https://www.cnsonline.com.tw/?node=detail&generalno=19086-3&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第3部：核心符合性要求事項 (16頁)
-* [ISO/IEC 19086-4:2019](https://www.iso.org/standard/68242.html) Cloud computing — Service level agreement (SLA) framework **Part 4: Components of security and of protection of PII** (20 pages)<br>
-  [CNS 19086-4:2021](https://www.cnsonline.com.tw/?node=detail&generalno=19086-4&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第4部：安全組成項目及PII保護組成項目 (23頁)
+* [`ISO/IEC 19086-1:2016`](https://www.iso.org/standard/67545.html) Cloud computing — Service level agreement (SLA) framework (34 pages)<br>
+  [`CNS 19086-1:2017`](https://www.cnsonline.com.tw/?node=detail&generalno=19086-1&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第1部：概觀與概念 (42頁)
+* [`ISO/IEC 19086-2:2018`](https://www.iso.org/standard/67546.html) Cloud computing — Service level agreement (SLA) framework **Part 2: Metric model** (39 pages)<br>
+  [`ISO/IEC 19086-2:2018/Amd 1:2023`](https://www.iso.org/standard/83762.html) Cloud computing — Service level agreement (SLA) framework — Part 2: Metric model **Amendment 1** (4 pages)<br>
+  [`CNS 19086-2:2020`](https://www.cnsonline.com.tw/?node=detail&generalno=19086-2&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第2部：度量模型 (46頁)
+* [`ISO/IEC 19086-3:2017`](https://www.iso.org/standard/67547.html) Cloud computing — Service level agreement (SLA) framework **Part 3: Core conformance requirements** (15 pages)<br>
+  [`CNS 19086-3:2018`](https://www.cnsonline.com.tw/?node=detail&generalno=19086-3&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第3部：核心符合性要求事項 (16頁)
+* [`ISO/IEC 19086-4:2019`](https://www.iso.org/standard/68242.html) Cloud computing — Service level agreement (SLA) framework **Part 4: Components of security and of protection of PII** (20 pages)<br>
+  [`CNS 19086-4:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=19086-4&locale=zh_TW) 雲端運算－服務水準協議(SLA)框架－第4部：安全組成項目及PII保護組成項目 (23頁)
 
 #### 虛擬主機
-* [ISO/IEC 19099:2014](https://www.iso.org/standard/63962.html) Virtualization Management Specification (416 pages)<br>
+* [`ISO/IEC 19099:2014`](https://www.iso.org/standard/63962.html) Virtualization Management Specification (416 pages)<br>
   虛擬化管理規格
-* [ISO/IEC 21878:2018](https://www.iso.org/standard/72029.html) Security guidelines for design and implementation of virtualized servers (22 pages)<br>
+* [`ISO/IEC 21878:2018`](https://www.iso.org/standard/72029.html) Security guidelines for design and implementation of virtualized servers (22 pages)<br>
   虛擬主機設計、實作之安全指引
 
 ### Google 進階搜尋
