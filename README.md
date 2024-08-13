@@ -42,6 +42,10 @@
 [<img width="57" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f/public_url) 
 [<img width="87" alt="CEH" src="https://github.com/user-attachments/assets/499b7413-5c37-4a3e-b602-01b442a3d409">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
 
+### 簡介
+在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。
+從事電腦稽核，應用多年資訊系統之開發、維護及管理經驗，開發稽核腳本(Audit Script)及稽核程式，對風險基礎導向稽核(Risk-based Audit)及數位稽核(如：數據分析)，有豐富的實務經驗，自2024/05起，受邀金融研訓院(TABF)擔任內部稽核專業課程之兼職講師。針對資安領域專家，一般均著重於一二線之執行及管理，對於三線(第三道)的稽核專業(如：治理、確認、諮詢)相對不足，無論是擔任電腦稽核(Auditor)或受稽核方(Auditee)，即使取得ISO Lead Auditor(主導稽核員)資格後，亦有不知如何下手的無力感，希望個人的稽核實務經驗，能於相關課程中分享給有此困擾的學員。
+
 
 
 
