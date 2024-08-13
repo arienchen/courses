@@ -26,7 +26,6 @@
 *	`2022/03` `EC-Council` [**CEH** (Certified Ethic Hacker)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=)
 * `2022/02`	`ISACA     ` [**CISM** (Certified Information Secyrity Manager)](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80/public_url)
 *	`2021/11` `ISC2      ` [**CISSP** (Certified Information Security Professional)](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c/public_url)
-91be25f0508b/public_url)
 
 [<img width="57" alt="CISA" src="https://github.com/user-attachments/assets/d9b5b722-b8db-4739-b24f-d3d02153541b">](https://www.credly.com/badges/69fcf619-5b8d-4f3c-a8d9-9199c78194dd/public_url) 
 [<img width="57" alt="CISM" src="https://github.com/user-attachments/assets/580047a3-c31d-45f2-9206-8f4c2aea4a17">](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80/public_url) 
