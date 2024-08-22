@@ -12,6 +12,7 @@
 * `2000/08-2018/02` 富邦證券/資訊部/AP主管
 
 ### 專業證照
+* `2024/08` 'ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a/public_url)
 * `2024/06` `Microsoft ` [**AI-102** (Microsoft Certified: Azure AI Engineer Associate)](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3)
 *	`2024/04` `GitHub    ` [**GitHub Advanced Security**](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f/public_url)
 * `2024/04`	`GitHub    ` [**GitHub Foundations**](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd/public_url)
@@ -26,6 +27,8 @@
 *	`2022/03` `EC-Council` [**CEH** (Certified Ethic Hacker)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=)
 * `2022/02`	`ISACA     ` [**CISM** (Certified Information Secyrity Manager)](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80/public_url)
 *	`2021/11` `ISC2      ` [**CISSP** (Certified Information Security Professional)](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c/public_url)
+
+[![image](https://github.com/user-attachments/assets/1b6f2684-8515-42d9-9272-95cb83517623)
 
 [<img width="57" alt="CISA" src="https://github.com/user-attachments/assets/d9b5b722-b8db-4739-b24f-d3d02153541b">](https://www.credly.com/badges/69fcf619-5b8d-4f3c-a8d9-9199c78194dd/public_url) 
 [<img width="57" alt="CISM" src="https://github.com/user-attachments/assets/580047a3-c31d-45f2-9206-8f4c2aea4a17">](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80/public_url) 
@@ -47,7 +50,6 @@
 從事電腦稽核，應用多年資訊系統之開發、維護及管理經驗，開發稽核腳本(Audit Script)及稽核程式，對風險基礎導向稽核(Risk-based Audit)及數位稽核(如：數據分析)，有豐富的實務經驗，自2024/05起，受邀金融研訓院(TABF)擔任內部稽核專業課程之兼職講師。針對資安領域專家，一般均著重於一二線之執行及管理，對於三線(第三道)的稽核專業(如：治理、確認、諮詢)相對不足，無論是擔任電腦稽核(Auditor)或受稽核方(Auditee)，即使取得ISO Lead Auditor(主導稽核員)資格後，亦有不知如何下手的無力感，希望個人的稽核實務經驗，能於相關課程中分享給有此困擾的學員。
 
 ### CPD (Continous Professional Development) 專業持續進修計畫
-* `ISACA     ` `CCAK ` 2024/08
 * `CSA       ` `CCSK ` 2024/09
 * `Google    ` `GCPML` 2024/10
 * `Microsoft ` `AZ104` 2024/10
