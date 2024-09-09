@@ -20,6 +20,7 @@
 * `2000/08-2018/02` 富邦證券/資訊部/AP主管
 
 ### 專業證照
+* `2024/09` `CSA       ` [**CCSK (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
 * `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
 * `2024/06` `Microsoft ` [**AI-102** (Microsoft Certified: Azure AI Engineer Associate)](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3)
 *	`2024/04` `GitHub    ` [**GitHub Advanced Security**](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f)
@@ -58,7 +59,6 @@
 從事電腦稽核，應用多年資訊系統之開發、維護及管理經驗，開發稽核腳本(Audit Script)及稽核程式，對風險基礎導向稽核(Risk-based Audit)及數位稽核(如：數據分析)，有豐富的實務經驗，自2024/05起，受邀金融研訓院(TABF)擔任內部稽核專業課程之兼職講師。針對資安領域專家，一般均著重於一二線之執行及管理，對於三線(第三道)的稽核專業(如：治理、確認、諮詢)相對不足，無論是擔任電腦稽核(Auditor)或受稽核方(Auditee)，即使取得ISO Lead Auditor(主導稽核員)資格後，亦有不知如何下手的無力感，希望個人的稽核實務經驗，能於相關課程中分享給有此困擾的學員。
 
 ### CPD (Continous Professional Development) 專業持續進修計畫
-* `CSA       ` `CCSK ` 2024/09
 * `Google    ` `GCPML` 2024/10
 * `Microsoft ` `AZ104` 2024/10
 * `EC-Council` `CCISO` 2024
