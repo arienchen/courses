@@ -20,7 +20,7 @@
 * `2000/08-2018/02` 富邦證券/資訊部/AP主管
 
 ### 專業證照
-* `2024/09` `CSA       ` [**CCSK (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
+* `2024/09` `CSA       ` [**CCSK** (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
 * `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
 * `2024/06` `Microsoft ` [**AI-102** (Microsoft Certified: Azure AI Engineer Associate)](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3)
 *	`2024/04` `GitHub    ` [**GitHub Advanced Security**](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f)
