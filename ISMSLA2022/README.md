@@ -104,6 +104,7 @@
 * [`2010/12/28` 富邦總部機房失火，多項服務系統停擺](https://www.ithome.com.tw/news/65242)
 * [`2011/01/03` 富邦金控總部機房失火，多項服務中斷1天](https://www.ithome.com.tw/news/65237)
 * [`2011/08/02` 富邦證錯帳全數沖銷 損失4.5億](https://news.pts.org.tw/article/46327)
+* [`2012/06/04` 美國政府涉及開發與散布Stuxnet蠕蟲](https://www.ithome.com.tw/news/74131)
 * [`2012/06/07` 裁罰案件-兆豐國際商業銀行應銷毀之電腦硬碟流入二手市場，核處新臺幣200萬元罰鍰](https://www.fsc.gov.tw/ch/home.jsp?id=131&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=201206070001&toolsflag=Y&dtable=Penalty)
 * [`2012/11/09` 因應個資法實施 Log管理重要性大增](https://www.ithome.com.tw/tech/77197)
 * [`2013/03/04` 是方電訊大樓機房失火釀全臺網路大當機，10年來最慘烈網路災難](https://www.ithome.com.tw/node/79046)
@@ -117,6 +118,7 @@
 * [`2019/09/04` 詐騙集團以AI軟體偽裝成老板聲音指示匯錢](https://www.ithome.com.tw/news/132836)
 * [`2019/10/09` 如果BSI和SGS核發的ISO 27001證書，沒有全國認證基金會TAF標誌，還有效嗎？](https://www.ithome.com.tw/news/133528)
 * [`2020/04/21` 沒網路也未必安全，研究人員以風扇震動外洩不連網PC的資料](https://www.ithome.com.tw/news/137125)
+* [`2020/07/06` 伊朗核武、軍事設施爆炸，疑和網路攻擊有關](https://www.ithome.com.tw/news/138610) 
 * [`2021/03/19`【OVH雲端機房失火，導致全球360萬個網站停擺】深度剖析歐洲史上最嚴重機房火災](https://www.ithome.com.tw/news/143321)
 * [`2021/09/30` 別輕忽備份321原則](https://www.ithome.com.tw/voice/146998)
 * [`2021/11/26` 投資人帳戶被駭自動買港股？元大證回應](https://www.ctee.com.tw/news/20211126700548-430298)
@@ -146,6 +148,7 @@
 * [`2024/06/17` 駭客組織Scattered Spider鎖定IT服務人員發動社交工程攻擊，竊取各式SaaS應用程式機密資料](https://www.ithome.com.tw/news/163500)
 * [`2024/07/05` 行政院會通過「資通安全管理法」修正草案明確化法律位階，強化聯防](https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11130)
 * [`2024/07/23` 金管會揭露CrowdStrike事故對臺金融業災情，保險業上千臺伺服器和上千臺PC受影響](https://www.ithome.com.tw/news/164084)
+* [`2024/09/30` Unix與Linux普遍內建的列印系統CUPS存在9.9分重大漏洞](https://www.ithome.com.tw/news/165257)
 
 ### 控制措施及文件   
 <img width="729" alt="image" src="https://github.com/user-attachments/assets/6fa80130-e0fa-4411-97e9-173c1e005f5e">  
