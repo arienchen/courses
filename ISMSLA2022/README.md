@@ -219,6 +219,7 @@
 ### 情資中心
 * [金融資安資訊分享與研究中心 F-ISAC](https://www.fisac.tw/)
 * [台灣電腦網路維玆處理暨協調中心 TWCERT](https://www.twcert.org.tw/)．[台灣漏洞揭露平台 TVN](https://www.twcert.org.tw/tw/np-131-1.html)
+* [台灣大哥大-反詐戰警服務介紹(偽冒網站、APP、社群媒體偵測](https://www.twmsolution.com/secguard/TWMAnti_phishing/download/OPScam_Saleskit_Y240530.pdf)
 
 ### 漏洞資料庫及CVSS
 * [NIST NVD CVE/CPE](https://nvd.nist.gov/)．[CVSS Calculator v3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)．[CVSS Calculator v4.0](https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator)
