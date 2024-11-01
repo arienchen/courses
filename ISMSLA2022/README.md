@@ -304,7 +304,14 @@
 * 資安進階證照-資料隱私保護：[ISACA CDPSE](https://www.isaca.org/credentialing/cdpse)
 * 資安進階證照-管理：[ISC2 CISSP](https://www.isc2.org/certifications/cissp) [(課程)](https://ainetwork-training.com/courses/cissp/) 、[ISACA CISM](https://www.isaca.org/credentialing/cism) [(課程)](https://ainetwork-training.com/courses/cism/)
 * 金融研訓院：[電腦稽核初級研習班](https://www.tabf.org.tw/CourseDetail.aspx?PID=587447)
-
+* [CSA(Cloud Security Alliance)](https://cloudsecurityalliance.org/)
+  - [CCSK(Certificate of Cloud Security Knowledge)](https://cloudsecurityalliance.org/education/ccsk)
+  - [CCZT(Certificate of Competence in Zero Trust)](https://cloudsecurityalliance.org/education/cczt)
+    
+* 資料隱私：[IAPP](https://iapp.org/)
+  - [CIPM(Certified Information Privacy Manager)](https://iapp.org/certify/cipm/)
+  - [CIPT(Certified Information Privacy Technologist)](https://iapp.org/certify/cipt/) 
+    
 **補充：** [ISO/IEC 17024 Personnel Certification Bodies](https://anabpd.ansi.org/accreditation/credentialing/personnel-certification/ALLdirectoryListing?menuID=2&prgID=201&statusID=4) 
 
 ### 參考書籍
