@@ -2,7 +2,7 @@
 
 ### ISO官方文件
 * [ISO IT and related technologies](https://www.iso.org/sectors/it-technologies)
-* [ISO/IEC Publicly Available Standarsa](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
+* [ISO/IEC Publicly Available Standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 * [國家標準(CNS)網路服務系統](https://www.cnsonline.com.tw/)
 * [財團法人全國認證基金會 TAF 認證名錄](https://www.taftw.org.tw/directory/scheme/msv/)  
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
