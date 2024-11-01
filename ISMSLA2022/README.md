@@ -33,12 +33,12 @@
 * [`ISO/IEC 27004:2016`](https://www.iso.org/standard/64120.html) Information Security Management-Monitoring, measurement, analysis and evaluation (58 pages)<br>
   [`CNS 27004:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27004&locale=zh_TW) 資訊安全管理-量測 (60頁)
 * [`ISO/IEC 27005:2022`](https://www.iso.org/standard/80585.html) Guidance on managing information security risks (62 pages)<br>
-  [`CNS 27005:2013`](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全風險管理 (58頁)
+  [`CNS 27005:2024`](https://www.cnsonline.com.tw/?node=detail&generalno=27005&locale=zh_TW) 資訊安全、網宇安全及隱私保護－管理資訊安全風險之指引 (69頁)
 * [`ISO/IEC 27006-1:2024`](https://www.iso.org/standard/82908.html) Requirements for bodies providing audit and certification of ISMS **Part 1:General** (47 pages)<br>
   提供資訊安全管理系統稽核與驗證機構之要求 **Part 1:一般**<br>
   [`ISO/IEC TS 27006-2:2021`](https://www.iso.org/standard/71676.html) Requirements for bodies providing audit and certification of ISMS **Part 2: Privacy information management systems** (9 pages)<br>
   提供資訊安全管理系統稽核與驗證機構之要求 **Part 2:隱私資訊管理系統**<br>
-  [`CNS 27006:2018/Amd.1:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 提供資訊安全管理系統稽核與驗證機構之要求 (46頁)
+  [`CNS 27006:2018/Amd.1:2023`](https://www.cnsonline.com.tw/?node=detail&generalno=27006&locale=zh_TW) 資訊技術－安全技術－提供資訊安全管理系統稽核與驗證機構之要求(46頁)
 * [`ISO/IEC 27007:2020`](https://www.iso.org/standard/77802.html) Guidelines for ISMS auditing (39 pages)<br>
   資訊安全管理系統稽核指引
 * [`ISO/IEC TS 27008:2019`](https://www.iso.org/standard/67397.html) Guidelines for the assessment of information security controls (91 pages)<br>
