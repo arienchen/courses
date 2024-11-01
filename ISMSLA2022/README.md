@@ -2,6 +2,7 @@
 
 ### ISO官方文件
 * [ISO IT and related technologies](https://www.iso.org/sectors/it-technologies)
+* [ISO/IEC Publicly Available Standarsa](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 * [國家標準(CNS)網路服務系統](https://www.cnsonline.com.tw/)
 * [財團法人全國認證基金會 TAF 認證名錄](https://www.taftw.org.tw/directory/scheme/msv/)  
   <img width="1075" alt="image" src="https://github.com/user-attachments/assets/4e4f3b0b-087c-4e95-9c9a-19d2a09bfe8f">
@@ -18,8 +19,7 @@
   [`CNS 31000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=31000&locale=zh_TW) 風險管理－指導綱要 (18頁)
 * [`ISO 19011:2018`](https://www.iso.org/standard/70017.html) Guidelines for auditing management systems (46 pages)<br>
   [`CNS 14809:2020`](https://www.cnsonline.com.tw/?node=detail&generalno=14809&locale=zh_TW) 管理系統稽核指導綱要 (47頁)
-  
-  
+
 #### Information security, cybersecurity and privacy protection <br>資訊安全、網宇安全及隱私保護
 * [`ISO/IEC 27000:2018`](https://www.iso.org/standard/73906.html) Information security management systems-Overview and vocabulary (27 pages)<br>
   [`CNS 27000:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=27000&locale=zh_TW) －資訊安全管理系統－概觀及詞彙 (39 pages)
@@ -61,6 +61,7 @@
 [`CNS 27701:2020`](https://www.cnsonline.com.tw/?node=detail&generalno=27701&locale=zh_TW) 用於隱私資訊管理之 CNS 27001及 CNS 27002 延伸-要求事項及指導綱要 (73頁)
 * [`ISO 27799:2016`](https://www.iso.org/standard/62777.html) Health informatics – Information security management in health using ISO/IEC 27002 (99 pages)<br>
 應用ISO/IEC 27002之醫療體系資訊安全管理
+* [`ISO/IEC 29100:2024`](https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_IEC_29100_2024_ed_2_-_id_85938_Publication_PDF_(en).zip) Information technology - Security techniques - Privacy framework 
 
 #### Cloud Computing 雲端運算
 * [`ISO/IEC 19086-1:2016`](https://www.iso.org/standard/67545.html) Cloud computing — Service level agreement (SLA) framework (34 pages)<br>
