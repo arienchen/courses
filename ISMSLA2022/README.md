@@ -297,13 +297,15 @@
 
 * 若公司已導入 27001 ISMS(資訊安全系統管理)，建議可再導入 27701 PIMS(隱私資訊管理)
 * 其他 ISO 特殊領域認證：22301 BCMS(營運持續管理)、20000 ITSM(資訊服務管理)、42001 AIMS(人工智慧管理)
-* 公司導入ISO認證時，再取得相關的5證書(只需上三天的課，不需上五天完整的課程)
+* 公司導入ISO認證時，再取得相關的證書(只需上三天的課，不需上五天完整的課程)
 * 資訊稽核：ISACA IT Audit Fundamentals及 Cybsersecurity Audit，若不考試，教材也值得推薦。
 * 資安入門證照：[ISC2 CC](https://www.isc2.org/certifications/cc) [(課程)](https://ainetwork-training.com/courses/cc/)、[CompTIA Securty+](https://www.comptia.org/certifications/security) [(課程)](https://ainetwork-training.com/courses/comptiasecurityplus/)
 * 資安進階證照-稽核：[ISACA CISA](https://www.isaca.org/credentialing/cisa) [(課程)](https://ainetwork-training.com/courses/cisa/)、[IIA CIA](https://iia-indonesia.org/certified-internal-auditor-cia/)/[中華民國內部稽核協會](https://www.iia.org.tw/arcts_list.aspx?arcts_id=49)
 * 資安進階證照-資料隱私保護：[ISACA CDPSE](https://www.isaca.org/credentialing/cdpse)
 * 資安進階證照-管理：[ISC2 CISSP](https://www.isc2.org/certifications/cissp) [(課程)](https://ainetwork-training.com/courses/cissp/) 、[ISACA CISM](https://www.isaca.org/credentialing/cism) [(課程)](https://ainetwork-training.com/courses/cism/)
 * 金融研訓院：[電腦稽核初級研習班](https://www.tabf.org.tw/CourseDetail.aspx?PID=587447)
+
+**補充：** [ISO/IEC 17024 Personnel Certification Bodies](https://anabpd.ansi.org/accreditation/credentialing/personnel-certification/ALLdirectoryListing?menuID=2&prgID=201&statusID=4) 
 
 ### 參考書籍
 * [線上申請 臺中圖書館帳號](https://rwd-library.taichung.gov.tw/webpac_rwd/web_register.cfm)
