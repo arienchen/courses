@@ -93,7 +93,23 @@ do
 done
 ```
 
+### Windows Batch 迴圈範例
+```Batch
+@echo off
 
+REM 政治獻金查詢平台 https://ardata.cy.gov.tw/data/search/advanced 
+REM 指定要執行的次數
+set count=189
+
+for /l %%i in (1, 1, %count%) do (
+  echo 執行第 %%i 次 curl 指令...
+  curl "https://ardata.cy.gov.tw/api/v1/search/export/?page=%%i&pageSize=1000&electionCode=113102&" -o "立法委員\2024立法委員_%%i.csv" 
+  timeout /t 1 /nobreak
+)
+
+echo.
+echo 指令執行完成！
+```
 
 ## 教材檔案
 1. Pentaho Demo: [請款費用](./pentaho/請款費用.ktr)
