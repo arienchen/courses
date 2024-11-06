@@ -115,7 +115,8 @@ echo 指令執行完成！
 1. Pentaho Demo: [請款費用](./pentaho/請款費用.ktr)
 2. Pentaho Demo: [Top100](./pentaho/TOP100.ktr)
 3. Tableau Prep Demo: [請款明細](./tableau/請款明細.tfl)
-
+4. Tableau Workbook: [2024總統大選政治獻金](./tableau/2024總統大選.twbx)
+   
 ## 補充資料
 1. Tableau Trial License 試用授權
    - [Tableau 官網申請](https://www.tableau.com/products/trial)
