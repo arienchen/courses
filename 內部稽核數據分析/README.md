@@ -71,6 +71,10 @@ curl "$url" -o "$outf"
 * 每頁：1000筆
 * 共 261頁(迴圈數)
 * 於 <img width="136" alt="image" src="https://github.com/user-attachments/assets/0c8ca37b-c7eb-4278-89c6-24f908c9520a"> 按滑鼠右鍵【複製連結網址】，取得資料連結網址 
+* 資料連結網址 API 參數
+  - page=$i (第幾頁)
+  - pageSize=1000(每頁資料筆數)
+  - electionCode=113101
 
 ```console
 #!/bin/bash
