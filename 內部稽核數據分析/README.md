@@ -27,7 +27,7 @@
 * [商業登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/108381)
 
 ### Windows Batch 範例
-```Batch
+```bat
 @echo off
 
 REM 公司登記-第三方支付服務業 https://data.gov.tw/dataset/22184
@@ -46,7 +46,7 @@ curl "%url2%" -o "%csv2%_%ymd%.csv"
 ```
 
 ### Linux Shell 範例
-```console
+```bash
 #!/bin/bash
 
 # 資料下載網址
@@ -76,7 +76,7 @@ curl "$url" -o "$outf"
   - pageSize=1000(每頁資料筆數)
   - electionCode=113101
 
-```console
+```bash
 #!/bin/bash
 
 # 指定要執行的次數
@@ -94,7 +94,7 @@ done
 ```
 
 ### Windows Batch 迴圈範例
-```Batch
+```bat
 @echo off
 
 REM 政治獻金查詢平台 https://ardata.cy.gov.tw/data/search/advanced 
