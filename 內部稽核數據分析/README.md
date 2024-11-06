@@ -1,4 +1,4 @@
-# 金融研訓院/數位稽核實務班(第1期)/內部稽核數據分析
+# 金融研訓院/數位稽核實務班/內部稽核數據分析
 
 [課程簡介](https://www.tabf.org.tw/CourseDetail.aspx?PID=564834) 
 
@@ -123,6 +123,6 @@ echo 指令執行完成！
    - 限個人使用，非商業用途
    - 下載 https://www.tableau.com/zh-tw/products/public/download
    - [版本比較](https://help.tableau.com/current/pro/desktop/zh-tw/desktop_comparison.htm)
-   - 支援的資料源較少，新版已支援可儲存為本機 .tbw 或 .tbwx 
+   - 支援的資料源較少，新版已支援可儲存為本機 .twb(不含資料) 或 .twbx(含資料) 
    - 無 Tableau Prep 
    
