@@ -26,6 +26,7 @@
 * [公司登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/22184)
 * [商業登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/108381)
 
+## 程式範例
 ### Windows Batch 範例
 ```bat
 @echo off
@@ -116,6 +117,8 @@ echo 指令執行完成！
 2. Pentaho Demo: [Top100](./pentaho/TOP100.ktr)
 3. Tableau Prep Demo: [請款明細](./tableau/請款明細.tfl)
 4. Tableau Workbook: [2024總統大選政治獻金](./tableau/2024總統大選.twbx)
+5. 班佛定律 Benford's Law (Python/JupyterLab): [beford.ipynb](./python/beford.ipynb) 
+
    
 ## 補充資料
 1. Tableau Trial License 試用授權
