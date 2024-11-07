@@ -117,7 +117,7 @@ echo 指令執行完成！
 2. Pentaho Demo: [Top100](./pentaho/TOP100.ktr)
 3. Tableau Prep Demo: [請款明細](./tableau/請款明細.tfl)
 4. Tableau Workbook: [2024總統大選政治獻金](./tableau/2024總統大選.twbx)
-5. 班佛定律 Benford's Law (Python/JupyterLab): [beford.ipynb](./python/benford.ipynb) 
+5. 班佛定律 Benford's Law (Python/JupyterLab): [benford.ipynb](./python/benford.ipynb) 
 
    
 ## 補充資料
