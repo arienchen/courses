@@ -311,7 +311,9 @@
 * 資料隱私：[IAPP](https://iapp.org/)
   - [CIPM(Certified Information Privacy Manager)](https://iapp.org/certify/cipm/)
   - [CIPT(Certified Information Privacy Technologist)](https://iapp.org/certify/cipt/) 
-    
+
+* [HKMA Enhanced Competency Framework on Cybersecurity](https://www.hkma.gov.hk/media/eng/doc/key-information/guidelines-and-circular/2019/20190110e1.pdf)    
+
 **補充：** [ISO/IEC 17024 Personnel Certification Bodies](https://anabpd.ansi.org/accreditation/credentialing/personnel-certification/ALLdirectoryListing?menuID=2&prgID=201&statusID=4) 
 
 ### 參考書籍
