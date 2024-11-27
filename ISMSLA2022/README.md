@@ -113,7 +113,7 @@
 * [NIST-News](https://www.nist.gov/news-events/news/rss.xml)
 * [NIST-Standard](https://www.nist.gov/news-events/standards/rss.xml)
 * [NIST-Cybersecurity](https://www.nist.gov/news-events/cybersecurity/rss.xml)
-* [NIST-IT](https://www.nist.gov/news-events/information technology/rss.xml)
+* [NIST-IT](https://www.nist.gov/news-events/information%20technology/rss.xml)
 
 
 ### 資安新聞
