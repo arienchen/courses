@@ -97,7 +97,24 @@
   [檢查資料清單及其附表](https://www.feb.gov.tw/ch/home.jsp?id=67&parentpath=0%2C4)．
   [最近五年度主要檢查缺失](https://www.feb.gov.tw/ch/home.jsp?id=300&parentpath=0%2C5%2C297)
 * [證交所-資通安全專區](https://dsp.twse.com.tw/informationSecurity/list)．[上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
-  
+
+### RSS 訂閱
+[iTHome Newa](https://www.ithome.com.tw/rss)
+[TWCERT](https://www.twcert.org.tw/tw/rss-104-1.xml)
+[TWCERT TVN](https://www.twcert.org.tw/tw/rss-132-1.xml)
+[金管會-法令函釋](https://www.fsc.gov.tw/RSS/Newlaw?serno=201202290008&language=chinese)
+[金管會-重要公告](https://www.fsc.gov.tw/RSS/Messages?serno=201202290001&language=chinese)
+[金管會-裁罰案件](https://www.fsc.gov.tw/RSS/Messages?serno=201202290003&language=chinese)
+[檢查局-重要公告](https://www.feb.gov.tw/RSS/feb/Messages?serno=201504010001&language=chinese)
+[CISA-Advisories](https://www.cisa.gov/cybersecurity-advisories/all.xml)
+[CISA-Blog](https://www.cisa.gov/cisa/blog.xml)
+[CISA-News](https://www.cisa.gov/news.xml)
+[NIST-Events](https://www.nist.gov/news-events/events/rss.xml)
+[NIST-News](https://www.nist.gov/news-events/news/rss.xml)
+[NIST-Standard](https://www.nist.gov/news-events/standards/rss.xml)
+[NIST-Cybersecurity](https://www.nist.gov/news-events/cybersecurity/rss.xml)
+[NIST-IT](https://www.nist.gov/news-events/information technology/rss.xml)
+
 ### 資安新聞
 * [`2001/09/19` 《納莉颱風整理報導》中華電信近20處機房淹水，35萬戶市話停話、經搶修剩8萬待修戶](https://www.ithome.com.tw/news/14428)
 * [`2001/09/19` 《納莉颱風整理報導》部份電子商務網站慘兮兮](https://www.ithome.com.tw/news/14429)
