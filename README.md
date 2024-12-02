@@ -69,9 +69,9 @@
 從事電腦稽核，應用多年資訊系統之開發、維護及管理經驗，開發稽核腳本(Audit Script)及稽核程式，對風險基礎導向稽核(Risk-based Audit)及數位稽核(如：數據分析)，有豐富的實務經驗，自2024/05起，受邀金融研訓院(TABF)擔任內部稽核專業課程之兼職講師。針對資安領域專家，一般均著重於一二線之執行及管理，對於三線(第三道)的稽核專業(如：治理、確認、諮詢)相對不足，無論是擔任電腦稽核(Auditor)或受稽核方(Auditee)，即使取得ISO Lead Auditor(主導稽核員)資格後，亦有不知如何下手的無力感，希望個人的稽核實務經驗，能於相關課程中分享給有此困擾的學員。
 
 ### CPD (Continous Professional Development) 專業持續進修計畫
-* `Google    ` `GCPML` 2024/10
-* `Microsoft ` `AZ104` 2024/10
-* `EC-Council` `CCISO` 2024
+* `Google    ` `GCPML` 2024/12
+* `Microsoft ` `AZ104` 2024/12
+* `EC-Council` `CCISO` 2024/12
 * `IAPP      ` `CIPM ` 2025
 * `IAPP      ` `CIPT ` 2025  
 
