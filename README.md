@@ -48,9 +48,9 @@
 [<img width="58" alt="CDPSE" src="https://github.com/user-attachments/assets/a5cf3c7f-41fa-4da0-ab3c-95429e597f47">](https://www.credly.com/badges/4647b9f5-2935-4d08-bf05-1f201347cec4) 
 [<img width="53" alt="CCAK" src="https://github.com/user-attachments/assets/1b6f2684-8515-42d9-9272-95cb83517623">](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a) 
 [<img width="57" alt="CIA" src="https://github.com/user-attachments/assets/1d7310d6-facf-445b-810b-50c72c277963">](https://www.credly.com/badges/c71d59e1-e355-459d-a272-21f3b08d892d) 
-[<img width="57" alt="CISSP" src="https://github.com/user-attachments/assets/df0c0cf9-5909-4384-84f2-0706976749bb">](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
-[<img width="57" alt="CCSP" src="https://github.com/user-attachments/assets/9cb81846-eb01-46c0-abe5-926d5bb0a352">](https://www.credly.com/badges/4c6660a6-cdfe-4d94-b44d-d9a779091d3e) 
-[<img width="57" alt="CSSLP" src="https://github.com/user-attachments/assets/d28e8b03-58f5-4258-92e0-e1f2739dc778">](https://www.credly.com/badges/cc230878-880f-4a6f-b66f-91be25f0508b) 
+[<img width="57" alt="CISSP" src="https://github.com/user-attachments/assets/5937d009-90c9-4559-9b20-a612c8501ac7">](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
+[<img width="57" alt="CCSP" src="https://github.com/user-attachments/assets/3291f46e-cb95-4e8d-8b2b-1757b18809dc">](https://www.credly.com/badges/4c6660a6-cdfe-4d94-b44d-d9a779091d3e) 
+[<img width="57" alt="CSSLP" src="https://github.com/user-attachments/assets/fa39f21e-a179-4752-b878-774352058ae2">](https://www.credly.com/badges/cc230878-880f-4a6f-b66f-91be25f0508b) 
 
 [<img width="57" alt="TDS" src="https://github.com/user-attachments/assets/bcdb8ee1-4bf6-4bbd-96b7-c76c00e3d1b6">](https://www.credly.com/badges/b6615378-1446-4765-930b-900288d89564) 
 [<img width="57" alt="GCCPDE" src="https://github.com/user-attachments/assets/04c34123-3011-4abf-adfa-2083ab3518a9">](https://www.credly.com/badges/52104d31-0d6f-4b00-a2d8-594e84cd6e2d) 
@@ -59,6 +59,8 @@
 [<img width="58" alt="GF" src="https://github.com/user-attachments/assets/a44c0d5b-1fd1-469f-8e82-58b47a1f01fd">](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd) 
 [<img width="57" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f) 
 [<img width="57" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
+
+
 
 ### 簡介
 在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。
