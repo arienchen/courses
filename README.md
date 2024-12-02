@@ -55,7 +55,6 @@
 [<img width="90" alt="CISSP" src="https://github.com/user-attachments/assets/5937d009-90c9-4559-9b20-a612c8501ac7">](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
 [<img width="90" alt="CCSP" src="https://github.com/user-attachments/assets/3cb3aa50-f4ba-47ae-8c06-91d2045dadc4">](https://www.credly.com/badges/4c6660a6-cdfe-4d94-b44d-d9a779091d3e) 
 [<img width="90" alt="CSSLP" src="https://github.com/user-attachments/assets/d434d7f8-6b77-44bb-8a06-771dc6988a27">](https://www.credly.com/badges/cc230878-880f-4a6f-b66f-91be25f0508b) 
-
 [<img width="90" alt="TDS" src="https://github.com/user-attachments/assets/bcdb8ee1-4bf6-4bbd-96b7-c76c00e3d1b6">](https://www.credly.com/badges/b6615378-1446-4765-930b-900288d89564) 
 [<img width="90" alt="GCCPDE" src="https://github.com/user-attachments/assets/04c34123-3011-4abf-adfa-2083ab3518a9">](https://www.credly.com/badges/52104d31-0d6f-4b00-a2d8-594e84cd6e2d) 
 [<img width="90" alt="AI102" src="https://github.com/user-attachments/assets/3cddb337-28b8-4e9a-8ea7-37931f727bc9">](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3) 
