@@ -40,11 +40,6 @@
 * `2022/02`	`ISACA     ` [**CISM** (Certified Information Secyrity Manager)](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80)
 *	`2021/11` `ISC2      ` [**CISSP** (Certified Information Security Professional)](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
 
-### Certificates
-* `2024/09` `CSA       ` [**CCSK** (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
-* `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
-* `2023/12` `TKSG      ` **ISMSLA** ISO 27001:2022 Information Security Management Syetems Lead Auditor
-* `2024/11` `TCIC      ` [**PIMS** ISO 27701:2019 Privacy Information Management](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 
 [<img width="90" alt="CISA" src="https://github.com/user-attachments/assets/d9b5b722-b8db-4739-b24f-d3d02153541b">](https://www.credly.com/badges/69fcf619-5b8d-4f3c-a8d9-9199c78194dd) 
 [<img width="90" alt="CISM" src="https://github.com/user-attachments/assets/580047a3-c31d-45f2-9206-8f4c2aea4a17">](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80) 
@@ -59,6 +54,13 @@
 [<img width="90" alt="GF" src="https://github.com/user-attachments/assets/a44c0d5b-1fd1-469f-8e82-58b47a1f01fd">](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd) 
 [<img width="90" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f) 
 [<img width="90" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
+
+
+### Certificates
+* `2024/09` `CSA       ` [**CCSK** (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
+* `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
+* `2023/12` `TKSG      ` **ISMSLA** ISO 27001:2022 Information Security Management Syetems Lead Auditor
+* `2024/11` `TCIC      ` [**PIMS** ISO 27701:2019 Privacy Information Management](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 
 
 [<img width="90" alt="CCSK" src="https://github.com/user-attachments/assets/fb3b7b76-7e6d-418a-8fbb-1bd8834f3b2b">](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
