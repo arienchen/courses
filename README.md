@@ -58,7 +58,7 @@
 <img width="57" alt="ISMSLA" src="https://github.com/user-attachments/assets/5186a24b-c1fd-432f-a332-0ae20f42db69"> 
 [<img width="58" alt="GF" src="https://github.com/user-attachments/assets/a44c0d5b-1fd1-469f-8e82-58b47a1f01fd">](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd) 
 [<img width="57" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f) 
-[<img width="87" alt="CEH" src="https://github.com/user-attachments/assets/499b7413-5c37-4a3e-b602-01b442a3d409">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
+[<img width="57" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
 
 ### 簡介
 在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。
