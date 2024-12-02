@@ -57,6 +57,7 @@
 [<img width="57" alt="GCCPDE" src="https://github.com/user-attachments/assets/04c34123-3011-4abf-adfa-2083ab3518a9">](https://www.credly.com/badges/52104d31-0d6f-4b00-a2d8-594e84cd6e2d) 
 [<img width="57" alt="AI102" src="https://github.com/user-attachments/assets/3cddb337-28b8-4e9a-8ea7-37931f727bc9">](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3) 
 <img width="57" alt="ISMSLA" src="https://github.com/user-attachments/assets/5186a24b-c1fd-432f-a332-0ae20f42db69"> 
+[<img width="57" alt="PIMSLA" src="https://github.com/user-attachments/assets/ee9e4f03-ffbf-4216-a90f-2b0829ebd924">](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 [<img width="58" alt="GF" src="https://github.com/user-attachments/assets/a44c0d5b-1fd1-469f-8e82-58b47a1f01fd">](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd) 
 [<img width="57" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f) 
 [<img width="57" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
