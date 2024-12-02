@@ -46,6 +46,7 @@
 [<img width="57" alt="CISA" src="https://github.com/user-attachments/assets/d9b5b722-b8db-4739-b24f-d3d02153541b">](https://www.credly.com/badges/69fcf619-5b8d-4f3c-a8d9-9199c78194dd) 
 [<img width="57" alt="CISM" src="https://github.com/user-attachments/assets/580047a3-c31d-45f2-9206-8f4c2aea4a17">](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80) 
 [<img width="58" alt="CDPSE" src="https://github.com/user-attachments/assets/a5cf3c7f-41fa-4da0-ab3c-95429e597f47">](https://www.credly.com/badges/4647b9f5-2935-4d08-bf05-1f201347cec4) 
+[<img width="57" alt="CCSK" src="https://github.com/user-attachments/assets/fb3b7b76-7e6d-418a-8fbb-1bd8834f3b2b">](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
 [<img width="53" alt="CCAK" src="https://github.com/user-attachments/assets/1b6f2684-8515-42d9-9272-95cb83517623">](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a) 
 [<img width="57" alt="CIA" src="https://github.com/user-attachments/assets/1d7310d6-facf-445b-810b-50c72c277963">](https://www.credly.com/badges/c71d59e1-e355-459d-a272-21f3b08d892d) 
 [<img width="57" alt="CISSP" src="https://github.com/user-attachments/assets/5937d009-90c9-4559-9b20-a612c8501ac7">](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
