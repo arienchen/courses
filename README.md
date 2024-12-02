@@ -49,8 +49,6 @@
 [<img width="90" alt="CISA" src="https://github.com/user-attachments/assets/d9b5b722-b8db-4739-b24f-d3d02153541b">](https://www.credly.com/badges/69fcf619-5b8d-4f3c-a8d9-9199c78194dd) 
 [<img width="90" alt="CISM" src="https://github.com/user-attachments/assets/580047a3-c31d-45f2-9206-8f4c2aea4a17">](https://www.credly.com/badges/117709b3-73cb-4603-9bb6-09fa30a66c80) 
 [<img width="90" alt="CDPSE" src="https://github.com/user-attachments/assets/a5cf3c7f-41fa-4da0-ab3c-95429e597f47">](https://www.credly.com/badges/4647b9f5-2935-4d08-bf05-1f201347cec4) 
-[<img width="90" alt="CCSK" src="https://github.com/user-attachments/assets/fb3b7b76-7e6d-418a-8fbb-1bd8834f3b2b">](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
-[<img width="90" alt="CCAK" src="https://github.com/user-attachments/assets/1b6f2684-8515-42d9-9272-95cb83517623">](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a) 
 [<img width="90" alt="CIA" src="https://github.com/user-attachments/assets/1d7310d6-facf-445b-810b-50c72c277963">](https://www.credly.com/badges/c71d59e1-e355-459d-a272-21f3b08d892d) 
 [<img width="90" alt="CISSP" src="https://github.com/user-attachments/assets/5937d009-90c9-4559-9b20-a612c8501ac7">](https://www.credly.com/badges/feff5e3a-81c8-481c-bae1-03f9033de46c)
 [<img width="90" alt="CCSP" src="https://github.com/user-attachments/assets/3cb3aa50-f4ba-47ae-8c06-91d2045dadc4">](https://www.credly.com/badges/4c6660a6-cdfe-4d94-b44d-d9a779091d3e) 
@@ -58,12 +56,15 @@
 [<img width="90" alt="TDS" src="https://github.com/user-attachments/assets/bcdb8ee1-4bf6-4bbd-96b7-c76c00e3d1b6">](https://www.credly.com/badges/b6615378-1446-4765-930b-900288d89564) 
 [<img width="90" alt="GCCPDE" src="https://github.com/user-attachments/assets/04c34123-3011-4abf-adfa-2083ab3518a9">](https://www.credly.com/badges/52104d31-0d6f-4b00-a2d8-594e84cd6e2d) 
 [<img width="90" alt="AI102" src="https://github.com/user-attachments/assets/3cddb337-28b8-4e9a-8ea7-37931f727bc9">](https://learn.microsoft.com/api/credentials/share/en-us/arien-chen/81BEEDC7D1C66A02?sharingId=D66CACAF29F5D3) 
-<img width="90" alt="ISMSLA" src="https://github.com/user-attachments/assets/5186a24b-c1fd-432f-a332-0ae20f42db69"> 
-[<img width="90" alt="PIMSLA" src="https://github.com/user-attachments/assets/ee9e4f03-ffbf-4216-a90f-2b0829ebd924">](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 [<img width="90" alt="GF" src="https://github.com/user-attachments/assets/a44c0d5b-1fd1-469f-8e82-58b47a1f01fd">](https://www.credly.com/badges/f9e60f53-e2d9-48d1-a9f8-7c7fa59d2fcd) 
 [<img width="90" alt="GAS" src="https://github.com/user-attachments/assets/58741a59-ef46-4758-9329-71694678a555">](https://www.credly.com/badges/22134de9-ac6f-41d2-afa1-f6089eea8e4f) 
 [<img width="90" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
 
+
+[<img width="90" alt="CCSK" src="https://github.com/user-attachments/assets/fb3b7b76-7e6d-418a-8fbb-1bd8834f3b2b">](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
+[<img width="90" alt="CCAK" src="https://github.com/user-attachments/assets/1b6f2684-8515-42d9-9272-95cb83517623">](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a) 
+<img width="90" alt="ISMSLA" src="https://github.com/user-attachments/assets/5186a24b-c1fd-432f-a332-0ae20f42db69"> 
+[<img width="90" alt="PIMSLA" src="https://github.com/user-attachments/assets/ee9e4f03-ffbf-4216-a90f-2b0829ebd924">](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 
 
 ### 簡介
