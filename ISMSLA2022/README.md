@@ -312,6 +312,12 @@
   
 * [YouTube 我的隱私將由我自己來守護！輕鬆加密你的檔案和訊息不讓外人窺探！(https://youtu.be/9kGw8CLwHPs?si=OykjXQ8yC1-_wl4X)
 
+### DeepFake 深偽 
+* [Terminator 2/Sylvester Stallone 魔鬼終結者2/席維斯·史特龍](https://youtu.be/AQvCmQFScMA?si=lc5ypc79ZTM7Tu2B)
+* [IronMan/Tom Cruise 鋼鐵人/湯姆·克魯斯](https://youtu.be/iDM69UEyM3w?si=R1MPbI1XjlmaLMCH)
+* [TED Fake videos of real people](https://youtu.be/o2DDU4g0PRo?si=1Ptgm2ecaDt3hz2N)
+
+
 ### 建議後續之資安證照路徑圖
 
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/0fde03e9-ad1b-4d05-8729-5f8939da5c7e">
