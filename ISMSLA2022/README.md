@@ -310,6 +310,7 @@
   |特性|加解密速度快(視金鑰的長度)|加解密速度慢(相對同長度之對稱金鑰|
   |特殊應用| |TLS使用PKI交換 Session Key，建立連線後，以Session Key作為互相傳輸加密機制|
   
+* [YouTube 我的隱私將由我自己來守護！輕鬆加密你的檔案和訊息不讓外人窺探！(https://youtu.be/9kGw8CLwHPs?si=OykjXQ8yC1-_wl4X)
 
 ### 建議後續之資安證照路徑圖
 
