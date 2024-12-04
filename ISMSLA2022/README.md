@@ -132,6 +132,7 @@
 * [`2016/10   ` 美國聯邦上訴法院認定，美國政府不得強取境外伺服器資料](https://stli.iii.org.tw/article-detail.aspx?no=64&tp=1&i=72&d=7609)
 * [`2017/09/13` 認識4種臺灣常見的資安保險](https://www.ithome.com.tw/news/116740)
 * [`2017/10/03` 【遠東銀行遭駭追追追】駭客搶銀行，臺灣二度淪陷](https://www.ithome.com.tw/article/117399)
+* [`2018/01/29' 研究人員：運動手環Strava的全球熱區地圖可能讓美軍基地曝光](https://www.ithome.com.tw/news/120964)
 * [`2018/07/26` 中小企業也有適用的資安險，明台產險推因應個資新法的保單](https://www.ithome.com.tw/news/124777)
 * [`2018/08/21` OpenSSL存在旁路攻擊漏洞，光靠攔截手機電磁訊號就能取得金鑰](https://www.ithome.com.tw/news/125370)
 * [`2019/01/10` 財金公司ATM跨行交易去年大當機 首遭罰150萬](https://www.cna.com.tw/news/afe/201901100254.aspx)
