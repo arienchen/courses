@@ -173,7 +173,8 @@
 * [`2024/09/30` Unix與Linux普遍內建的列印系統CUPS存在9.9分重大漏洞](https://www.ithome.com.tw/news/165257)
 
 ### 控制措施及文件   
-<img width="729" alt="image" src="https://github.com/user-attachments/assets/6fa80130-e0fa-4411-97e9-173c1e005f5e">  
+![簡報1](https://github.com/user-attachments/assets/b250abec-ea50-409b-b411-7e8ec6199a50)
+
 
 參考來源：ISACA CCAK Study Guide 
 
