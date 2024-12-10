@@ -59,7 +59,7 @@
 ### 專業證書(Certificates)
 * `2024/09` `CSA       ` [**CCSK** (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
 * `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
-* `2023/12` `TKSG      ` **ISMSLA** ISO 27001:2022 Information Security Management Syetems Lead Auditor
+* `2023/12` `TKSG      ` **ISMS** ISO 27001:2022 Information Security Management Syetems Lead Auditor
 * `2024/11` `TCIC      ` [**PIMS** ISO 27701:2019 Privacy Information Management](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 
 
@@ -70,10 +70,11 @@
 
 
 ### 簡介
-在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。
+在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。  
 從事電腦稽核，應用多年資訊系統之開發、維護及管理經驗，開發稽核腳本(Audit Script)及稽核程式，對風險基礎導向稽核(Risk-based Audit)及數位稽核(如：數據分析)，有豐富的實務經驗，自2024/05起，受邀金融研訓院(TABF)擔任內部稽核專業課程之兼職講師。針對資安領域專家，一般均著重於一二線之執行及管理，對於三線(第三道)的稽核專業(如：治理、確認、諮詢)相對不足，無論是擔任電腦稽核(Auditor)或受稽核方(Auditee)，即使取得ISO Lead Auditor(主導稽核員)資格後，亦有不知如何下手的無力感，希望個人的稽核實務經驗，能於相關課程中分享給有此困擾的學員。
 
 ### CPD (Continous Professional Development) 專業持續進修計畫
+* `Microsoft ` `DP600` 2024/12 
 * `Google    ` `GCPML` 2024/12
 * `Microsoft ` `AZ104` 2024/12
 * `EC-Council` `CCISO` 2024/12
