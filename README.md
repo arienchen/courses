@@ -56,7 +56,7 @@
 [<img width="90" alt="CEH" src="https://github.com/user-attachments/assets/760490c0-718b-46c2-9ce8-72cbb7bab8ef">](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=5iYy5cV4/Bpi34meRflirH2pVH7lMspcayUiKixBaxM=) 
 
 
-### Certificates
+### 專業證書(Certificates)
 * `2024/09` `CSA       ` [**CCSK** (Certificate of Cloud Security Knowledge)](https://www.credly.com/badges/d64bc9b4-4c2d-4d40-a2c9-8a9241d909c4)
 * `2024/08` `ISACA     ` [**CCAK** (Certificate of Cloud Auditing Knowledge)](https://www.credly.com/badges/efec75c3-5ca6-4ac6-9fd1-bf7d91b31c8a)
 * `2023/12` `TKSG      ` **ISMSLA** ISO 27001:2022 Information Security Management Syetems Lead Auditor
