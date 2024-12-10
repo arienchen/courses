@@ -15,9 +15,9 @@
 * 「取樣」針對訊號處理過程 https://zh.wikipedia.org/wiki/取樣 
 
 ## ISO 抽樣標準
-* [ISO 2859 Sampling procedures for inspection by attributes](https://www.iso.org/search.html?PROD_isoorg_en%5Bquery%5D=2859)  
+* [ISO 2859 Sampling procedures for inspection by attributes](https://www.iso.org/search.html?q=2859)  
   [CNS 2779-1:2020 計數值檢驗抽樣程序－第1部](https://www.cnsonline.com.tw/?node=result&typeof=quick&locale=zh_TW&searchfield=2779-1)
-* [ISO 3951 Sampling procedures for inspection by variables](https://www.iso.org/search.html?PROD_isoorg_en%5Bquery%5D=3951)   
+* [ISO 3951 Sampling procedures for inspection by variables](https://www.iso.org/search.html?q=3951)   
   [CNS 9445-1:2020 計量值檢驗抽樣程序 - 第1部](https://www.cnsonline.com.tw/?node=result&typeof=quick&locale=zh_TW&searchfield=9445-1)
 
 ## 稽核實務準則及實施指引
