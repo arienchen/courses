@@ -78,8 +78,11 @@
 * `Google    ` `GCPML` 2024/12
 * `Microsoft ` `AZ104` 2024/12
 * `EC-Council` `CCISO` 2024/12
-* `IAPP      ` `CIPM ` 2025
-* `IAPP      ` `CIPT ` 2025  
+* `PI/OpenEDG` `PCEP ` 2025/01
+* `PI/OpenEDG` `PCAP ` 2025/02
+* `PI/OpenEDG` `PCPP ` 2025/03
+* `IAPP      ` `CIPM ` 2025/04
+* `IAPP      ` `CIPT ` 2025/04  
 
 
 
