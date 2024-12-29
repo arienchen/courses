@@ -342,6 +342,9 @@
   - [CIPT(Certified Information Privacy Technologist)](https://iapp.org/certify/cipt/) 
 
 * [HKMA Enhanced Competency Framework on Cybersecurity](https://www.hkma.gov.hk/media/eng/doc/key-information/guidelines-and-circular/2019/20190110e1.pdf)    
+* 資安證照路徑圖，可參考 [Paul Jerimy Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)  
+![](https://github.com/user-attachments/assets/cdbace44-501f-49db-9dee-e3e850837fd9)
+
 
 **補充：** [ISO/IEC 17024 Personnel Certification Bodies](https://anabpd.ansi.org/accreditation/credentialing/personnel-certification/ALLdirectoryListing?menuID=2&prgID=201&statusID=4) 
 
