@@ -68,6 +68,9 @@
 <img width="90" alt="ISMSLA" src="https://github.com/user-attachments/assets/5186a24b-c1fd-432f-a332-0ae20f42db69"> 
 [<img width="90" alt="PIMSLA" src="https://github.com/user-attachments/assets/ee9e4f03-ffbf-4216-a90f-2b0829ebd924">](https://www.credly.com/badges/2edbb090-f02a-455c-96f1-fcb55466e1c5)
 
+![20241228](https://github.com/user-attachments/assets/52a1e3c4-2a43-40da-9d33-ffc84895ae30)  
+
+(完整資安證照路徑圖，可參考 [Paul Jerimy Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)) 
 
 ### 簡介
 在富邦證券任職18年，從事應用系統開發及串接整合，包含前台/中台/後台/上手(交易所/FIX/DMA)等，於2018轉任台北富邦銀行稽核室擔任電腦稽核及領隊稽核，因稽核工作性質，強調廣度及深度兼具，且銀行屬高度監管事業，為符合IIA/IPPF「內部稽核人員職業道德規範」之適任性(Competency)要求，個人是以取得國際專業證照，作為「持續專業發展CPD(Continuous Professional Development)」的途徑，以滿足對各項資安專業領域知識(Domain Knowledge)之需求。熟悉領域知識及考試取得證照，仍有不小差距，希望個人的證照經歷，能協助有志於資安領域發展的學員，提升技能，順利進入更高的資安專家行列。  
@@ -75,18 +78,19 @@
 
 ### CPD (Continous Professional Development) 專業持續進修計畫
 * `Microsoft ` `DP600` 2024/12 
-* `Google    ` `GCPML` 2024/12
-* `Microsoft ` `AZ104` 2024/12
-* `EC-Council` `CCISO` 2024/12
 * `PI/OpenEDG` `PCEP ` 2025/01
 * `PI/OpenEDG` `PCAP ` 2025/02
+* `ISACA     ` `CRISC` 2025/03
 * `PI/OpenEDG` `PCPP ` 2025/03
 * `IAPP      ` `CIPM ` 2025/04
 * `IAPP      ` `CIPT ` 2025/04  
-
-
-
-
+* `OffSec    ` `OSCP+` 2025/05
+* `Google    ` `GCPML` 2025
+* `Microsoft ` `AZ104` 2025
+* `Red Hat   ` `RHCE ` 2025
+* `ISACA     ` `CCOA ` 2025 
+  
+![2025 證照計畫](https://github.com/user-attachments/assets/c0fb4eaa-75c6-4122-9f1a-ef3dc952abf4)
 
 
 
