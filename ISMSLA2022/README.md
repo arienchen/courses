@@ -89,7 +89,7 @@
 
 ### 主管機關
 * [數位發展部/資通安全署](https://moda.gov.tw/ACS/)．[資安法規專區](https://moda.gov.tw/ACS/laws/certificates/676)．
-  [資通安全管理法及子法](https://moda.gov.tw/ACS/laws/regulations/624)．[資安安全專業證照清單](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/pwqTA78L7nyTFDm)
+  [資通安全管理法及子法](https://moda.gov.tw/ACS/laws/regulations/624)．[資安安全專業證照清單(1140124修正)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/epCm7MlcYGOKmPH)
 * [數位發展部/國家資通安全研究院 NICS](https://www.nics.nat.gov.tw/)．[政府組態基準(GCB)](https://www.nics.nat.gov.tw/core_business/cybersecurity_defense/GCB/)
 * [數位發展部/數位產業署-資訊服務業落實個人資料保護暨資訊安全參考指引](https://ecos.org.tw/upload/files/ecos1.pdf) 
 * [金管會-金融資安行動方案](https://www.fsc.gov.tw/ch/home.jsp?id=975&parentpath=0)．[金融資安人才地圖](https://www.fsc.gov.tw/websitedowndoc?file=chfsc/202405061552070.pdf&filedisplay=%E9%87%91%E8%9E%8D%E8%B3%87%E5%AE%89%E4%BA%BA%E6%89%8D%E8%81%B7%E8%83%BD%E5%9C%B0%E5%9C%96_11304%E7%89%88.pdf)
