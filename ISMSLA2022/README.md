@@ -173,7 +173,9 @@
 * [`2024/07/05` 行政院會通過「資通安全管理法」修正草案明確化法律位階，強化聯防](https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11130)
 * [`2024/07/23` 金管會揭露CrowdStrike事故對臺金融業災情，保險業上千臺伺服器和上千臺PC受影響](https://www.ithome.com.tw/news/164084)
 * [`2024/09/30` Unix與Linux普遍內建的列印系統CUPS存在9.9分重大漏洞](https://www.ithome.com.tw/news/165257)
+* [`2025/02/12` 馬偕醫院遭勒索軟體攻擊事件歷程總整理](https://www.ithome.com.tw/news/167327)
 
+  
 ### 控制措施及文件   
 ![簡報1](https://github.com/user-attachments/assets/b250abec-ea50-409b-b411-7e8ec6199a50)
 
