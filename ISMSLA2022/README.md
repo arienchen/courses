@@ -13,7 +13,7 @@
 * [`ISO 9001:2015`](https://www.iso.org/standard/62085.html) Quality management systems — Requirements (29 pages)<br>
   [`ISO 9001:2015/Amd 1:2024`](https://www.iso.org/standard/88431.html) Quality management systems — Requirements **Amendment 1: Climate action changes** (1 page)<br>
   [`CNS 12681:2016`](https://www.cnsonline.com.tw/?node=detail&generalno=12681&locale=zh_TW) 品質管理系統－要求事項 (32頁)
-* [`ISO Guide 73`](https://www.iso.org/standard/44651.html) Risk management — Vocabulary (15 pages) $${\color{red}已於2023/11/02註銷}$$<br>  
+* [`ISO Guide 73`](https://www.iso.org/standard/44651.html) Risk management — Vocabulary (15 pages) $${\color{red}已於2023/11/02註銷}$$<br>
   [`CNS 14889:2012`](https://www.cnsonline.com.tw/?node=detail&generalno=14889&locale=zh_TW) 風險管理－詞彙 (13頁)
 * [`ISO 31000:2018`](https://www.iso.org/standard/65694.html) Risk management — Guidelines (16 pages)<br>
   [`CNS 31000:2021`](https://www.cnsonline.com.tw/?node=detail&generalno=31000&locale=zh_TW) 風險管理－指導綱要 (18頁)
