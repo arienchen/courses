@@ -249,7 +249,8 @@
 * [台灣大哥大-反詐戰警服務介紹(偽冒網站、APP、社群媒體偵測](https://www.twmsolution.com/secguard/TWMAnti_phishing/download/OPScam_Saleskit_Y240530.pdf)
 
 ### 漏洞資料庫及CVSS
-* [NIST NVD CVE/CPE](https://nvd.nist.gov/)．[CVSS Calculator v3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)．[CVSS Calculator v4.0](https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator)
+* [NIST NVD CVE/CPE](https://nvd.nist.gov/)．[CVE Search](https://nvd.nist.gov/vuln/search)．[CVSS Calculator v3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)．[CVSS Calculator v4.0](https://nvd.nist.gov/vuln-metrics/cvss/v4-calculator)
+* [CVE Detail](https://www.cvedetails.com/)
 * [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) 
 * [FIRST CVSS](https://www.first.org/cvss/)．[CVSS 4.0 Calculator](https://www.first.org/cvss/calculator/4.0)
 
