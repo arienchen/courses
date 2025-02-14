@@ -80,6 +80,17 @@
 * [`ISO/IEC 21878:2018`](https://www.iso.org/standard/72029.html) Security guidelines for design and implementation of virtualized servers (22 pages)<br>
   虛擬主機設計、實作之安全指引
 
+### CSA (Cloud Security Alliance)
+* [CCM(Cloud Control Matrix) v4](https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4)
+  - `Guide to the CCM and CAIQ` This guide explains the individual components in this download file, their purpose, and how to use them.
+  - `CCM + CAIQ v4` The latest version of the Cloud Controls Matrix and the Consensus Assessment Initiative Questionnaire.
+  - `Mappings` **Detailed mappings to various industry standards.**
+  - `CCM v4 Implementation Guidelines` Best practices for implementing the CCM.
+  - `CCM v4 Auditing Guidelines` **Steps and guidance for auditing against the CCM.**
+  - `Continuous Auditing Metrics` Catalog of security metrics for the cloud.
+  - `STAR Level 1 Security Questionnaire (CAIQ v4)` Use this to submit to the STAR Registry.
+
+
 ### Google 進階搜尋
 * [Google Advanced Search](https://www.google.com.tw/advanced_search)
 * [Google Search Operators 谷歌搜詢運算指令](https://ahrefs.com/blog/google-advanced-search-operators/)
