@@ -190,6 +190,9 @@
 * [`2024/07/05` 行政院會通過「資通安全管理法」修正草案明確化法律位階，強化聯防](https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=11130)
 * [`2024/07/23` 金管會揭露CrowdStrike事故對臺金融業災情，保險業上千臺伺服器和上千臺PC受影響](https://www.ithome.com.tw/news/164084)
 * [`2024/09/30` Unix與Linux普遍內建的列印系統CUPS存在9.9分重大漏洞](https://www.ithome.com.tw/news/165257)
+* [`2024/11/19` 經濟部修法強化零售業者個資保護義務，適用業者擴增6,800家](https://www.ithome.com.tw/news/166102)
+* [`2025-01-08` iRent租車條款遭疑蒐集過多個資 公路局要求補正](https://www.cna.com.tw/news/ahel/202501080396.aspx)
+* [`2025-01-09` 從iRent過度蒐集、利用個資事件談企業資料治理](https://www.is-law.com/a-discussion-on-corporate-data-governance-prompted-by-irents-excessive-personal-data-collection-and-usage-incident/)
 * [`2025/02/12` 馬偕醫院遭勒索軟體攻擊事件歷程總整理](https://www.ithome.com.tw/news/167327)
 
   
