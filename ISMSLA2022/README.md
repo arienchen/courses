@@ -114,7 +114,12 @@
   [檢查資料清單及其附表](https://www.feb.gov.tw/ch/home.jsp?id=67&parentpath=0%2C4)．
   [最近五年度主要檢查缺失](https://www.feb.gov.tw/ch/home.jsp?id=300&parentpath=0%2C5%2C297)
 * [證交所-資通安全專區](https://dsp.twse.com.tw/informationSecurity/list)．[上市上櫃公司資通安全管控指引](https://dsp.twse.com.tw/public/static/downloads/listedCompany/%E4%B8%8A%E5%B8%82%E4%B8%8A%E6%AB%83%E5%85%AC%E5%8F%B8%E8%B3%87%E9%80%9A%E5%AE%89%E5%85%A8%E7%AE%A1%E6%8E%A7%E6%8C%87%E5%BC%95_final1_20211221111831.docx)
-
+* [銀行工會](https://www.ba.org.tw/PublicInformation/ImportantSpec?type=99537959-bc87-4d24-bcb7-83c8e7767e65)
+  ．[金融機構資通安全防護基準](https://www.ba.org.tw/FileDownload/Download?FileId=e6839a28-fe7e-463d-bf73-9733cfed9d67&FileName=金融機構資通安全防護基準.pdf)
+  ．[金融機構資訊作業韌性規範](https://www.ba.org.tw/FileDownload/Download?FileId=2a740c7a-1f50-4747-9a73-14afd897a5ab&FileName=金融機構資訊作業韌性規範_20240521.pdf)
+  ．[金融機構資通系統與服務供應鏈風險管理規範](https://www.ba.org.tw/PublicInformation/Detail/4670?enumtype=ImportantnormType&type=99537959-bc87-4d24-bcb7-83c8e7767e65)
+  ．[金融機構運用人工智慧技術作業規範](https://www.ba.org.tw/FileDownload/Download?FileId=7fd6fb68-2e04-4b7b-b441-9b6f51541a97&FileName=金融機構運用人工智慧技術作業規範_1130415.pdf)
+  
 ### RSS 訂閱
 * [iTHome Newa](https://www.ithome.com.tw/rss)
 * [TWCERT](https://www.twcert.org.tw/tw/rss-104-1.xml)
