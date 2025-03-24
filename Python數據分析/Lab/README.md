@@ -1,7 +1,7 @@
 # LAB 實作
-1. [LAB-03 Python Keyword](#LAB-03-Python-Keyword)
-2. [LAB-04 字串 str](#LAB-04-字串-str)
-3. LAB-05 格式化字串 f-string, format()
+1. [LAB-03 Python Keyword]([#lab-03-python-keyword)
+2. [LAB-04 字串 str](#lab-04-%E5%AD%97%E4%B8%B2-str)
+3. [LAB-05 格式化字串 f-string, format()](#lab-05-%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E4%B8%B2-f-string--format)
 4. [LAB-06 數值型別](#lab-06-數值型別)
 5. LAB-07 序列型別 range, tuple, list
 6. [LAB-08 集合 set](#lab-08-集合-set)
