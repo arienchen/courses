@@ -296,8 +296,11 @@ def 函式名稱(參數1, 參數2, ...):
 * 熱度圖
 
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/0029f8d8-2950-4d0a-bab7-2f63e64ca372" />  
+<br><br>
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/20260e1c-72a5-47e9-88b1-9f58545991ff" />  
+<br><br>
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/75e06d8f-236e-4dd5-bca3-22ce5052c3a1" />  
+<br><br>
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/70a006b7-dc9d-488c-b75c-fbace4308239" />  
 
 ---
@@ -318,9 +321,13 @@ def 函式名稱(參數1, 參數2, ...):
 13. 散點圖 - Plotly
 
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/c009fc03-2832-4095-9cfc-68bad9664944" />  
+<br><br>
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/0a1c8454-8ce2-4835-97d1-0ec1f4a38f11" />  
+<br><br>
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/f73223af-8e4f-4f3c-bb5a-2b7110ebbe0e" />  
+<br><br>
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/87f67cd7-623c-4ca8-a843-5974a31bb1bd" />  
+<br><br>
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/109a9b8b-34a5-4364-b0b3-a07624973ac5" />  
 
 ---
@@ -335,10 +342,9 @@ def 函式名稱(參數1, 參數2, ...):
 7. 使用自訂外部模組
 
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/197285b5-47d2-4232-9f86-ef68c62ffbc1" />  
+<br><br>
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/ae2299f2-3b31-4af5-a545-cbe9fb8d91e5" />  
+<br><br>
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/5f25f642-617d-4bfe-8427-accbc9620de0" />  
+<br><br>
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/49a2089a-0edd-461c-be9c-04d21e6e19ba" />  
-
-
-
-
