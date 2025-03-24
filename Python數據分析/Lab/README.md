@@ -1,5 +1,5 @@
 # LAB 實作
-1. [LAB-03 Python Keyword]([#lab-03-python-keyword)
+1. [LAB-03 Python Keyword](#lab-03-python-keyword) [23](#lab-23)
 2. [LAB-04 字串 str](#lab-04-%E5%AD%97%E4%B8%B2-str)
 3. [LAB-05 格式化字串 f-string, format()](#lab-05-%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E4%B8%B2-f-string--format)
 4. [LAB-06 數值型別](#lab-06-%E6%95%B8%E5%80%BC%E5%9E%8B%E5%88%A5)
@@ -210,7 +210,7 @@ def 函式名稱(參數1, 參數2, ...):
 12. 散點圖 - Seabord + 人機界面
 13. 散點圖 - Plotly
 ---
-# LAB-23 DataFrame Merge & Drill Down
+## LAB-23 DataFrame Merge & Drill Down <a id='lab-23'></a>
 
 1. 由 Jupyter 檢查套件是否已安裝
 2. 設定 Pandas 顯示資料的欄位數及筆數
