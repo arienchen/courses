@@ -1,30 +1,30 @@
 # LAB 實作
-1. [LAB-03 Python Keyword](#lab-03-python-keyword) [23](#lab-23)
-2. [LAB-04 字串 str](#lab-04-%E5%AD%97%E4%B8%B2-str)
-3. [LAB-05 格式化字串 f-string, format()](#lab-05-%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E4%B8%B2-f-string--format)
-4. [LAB-06 數值型別](#lab-06-%E6%95%B8%E5%80%BC%E5%9E%8B%E5%88%A5)
-5. [LAB-07 序列型別 range, tuple, list](#lab-07-%E5%BA%8F%E5%88%97%E5%9E%8B%E5%88%A5-range-tuple-list)
-6. [LAB-08 集合 set](#lab-08-%E9%9B%86%E5%90%88-set)
-7. [LAB-09 字典 dict](#lab-09-%E5%AD%97%E5%85%B8-dict)
-8. [LAB-10 條件判斷 if-elif-else](#lab-10-%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7-if-elif-else)
-9. [LAB-11 迴圈 for, while, break, continue](#lab-11-%E8%BF%B4%E5%9C%88-for-while-break-continue)
-10. [LAB-12 函式 def](#lab-12-%E5%87%BD%E5%BC%8F-def)
-11. [LAB-13 模組 import, from, as](#lab-13-%E6%A8%A1%E7%B5%84-import-from-as)
-12. [LAB-14 2024 立法委員選舉資料](#lab-14-2024%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E8%B3%87%E6%96%99)
-13. [LAB-15 2024 總統選舉資料](#lab-15-2024-%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E8%B3%87%E6%96%99)
-14. [LAB-16 Python 下載網頁](#lab-16-python-%E4%B8%8B%E8%BC%89%E7%B6%B2%E9%A0%81)
-15. [LAB-17 使用 Pandas 合併 CSV](#lab-17-%E4%BD%BF%E7%94%A8-pandas-%E5%90%88%E4%BD%B5-csv)
-16. [LAB-18-01 產生交易測試資料(Claude AI)](#lab-18-01-%E7%94%A2%E7%94%9F%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6%E8%B3%87%E6%96%99claude-ai)
+1. [LAB-03 Python Keyword](#lab-03)
+2. [LAB-04 字串 str](#lab-04)
+3. [LAB-05 格式化字串 f-string, format()](#lab-05)
+4. [LAB-06 數值型別](#lab-06)
+5. [LAB-07 序列型別 range, tuple, list](#lab-07)
+6. [LAB-08 集合 set](#lab-08)
+7. [LAB-09 字典 dict](#lab-09)
+8. [LAB-10 條件判斷 if-elif-else](#lab-10)
+9. [LAB-11 迴圈 for, while, break, continue](#lab-11)
+10. [LAB-12 函式 def](#lab-12)
+11. [LAB-13 模組 import, from, as](#lab-13)
+12. [LAB-14 2024 立法委員選舉資料](#lab-14)
+13. [LAB-15 2024 總統選舉資料](#lab-15)
+14. [LAB-16 Python 下載網頁](#lab-16)
+15. [LAB-17 使用 Pandas 合併 CSV](#lab-17)
+16. [LAB-18-01 產生交易測試資料(Claude AI)](#lab-18)
     LAB-18-02 產生交易測試資料(ChatGPT)
     LAB-18-03 產生交易測試資料(Gemini)
-17. [LAB-19 資料及檢視及清理](#lab-19-%E8%B3%87%E6%96%99%E9%9B%86%E6%AA%A2%E8%A6%96%E5%8F%8A%E6%B8%85%E7%90%86)
-18. [LAB-20 班佛定律 Benford's Law](#lab-20-%E7%8F%AD%E4%BD%9B%E5%AE%9A%E5%BE%8B-benfords-law)
-19. [LAB-21 直方圖及熱度圖](#lab-21-%E7%9B%B4%E6%96%B9%E5%9C%96%E5%8F%8A%E7%86%B1%E5%BA%A6%E5%9C%96)
-20. [LAB-22 立法委員選舉結果](#lab-22-2024-%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C)
-21. [LAB-23 DataFrame Merge & Drill Down](#lab-23-dataframe-merge--drill-down)
+17. [LAB-19 資料及檢視及清理](#lab-19)
+18. [LAB-20 班佛定律 Benford's Law](#lab-20)
+19. [LAB-21 直方圖及熱度圖](#lab-21)
+20. [LAB-22 立法委員選舉結果](#lab-22)
+21. [LAB-23 DataFrame Merge & Drill Down](#lab-23)
     
 ---
-## LAB-03 Python Keyword 
+## LAB-03 Python Keyword<a id='lab-03'></a>
 * 使用 `keyword` 模組，列出 Python 保留字
 * `import` 指令
 * `for` 迴圈
@@ -38,7 +38,7 @@
   + 清除所有程式格的輸出
   + 儲存為 PDF
 --- 
-# LAB-04 字串 str
+# LAB-04 字串 str<a id='lab-04'></a>
 * 字串基本操作
 * 大小寫轉換
 * 去空白及填入
@@ -49,13 +49,13 @@
 
 > 有關格式化字串 f-string 或 `format()` 之用法，請參考 LAB-05
 ---
-## LAB-05 格式化字串 f-string , format()
+## LAB-05 格式化字串 f-string , format()<a id='lab-05'></a>
 * 所有日期時間格式，請參考 [ChatGPT](https://chatgpt.com/share/67d26a82-6da0-8009-927b-7f1ed54ac694)
 ---
-## LAB-06 數值型別
+## LAB-06 數值型別<a id='lab-06'></a>
 * 數值運算子，請參考 [ChatGPT](https://claude.ai/share/6c58ddad-1a79-4dae-a398-72773428faec)
 ---
-## LAB-07 序列型別 range, tuple, list<a id='LAB-07'></a>
+## LAB-07 序列型別 range, tuple, list<a id='lab-07'></a>
 
 |型別|可變性|宣告方式|用途|
 |---|---|---|---|
@@ -65,13 +65,13 @@
 
 * 一般是以 `list` 作為 `array` 操作，當有大量數值運算時，才會使用如 `numpy.array()`
 ---
-## LAB-08 集合 set<a id='LAB-08'></a>
+## LAB-08 集合 set<a id='lab-08'></a>
 在 Python 中，`set` 是一種無序且不重複的資料集合型別。它**不允許有重複**的元素，並且常常用來進行數學上的集合運算（例如聯集、交集、差集等）
 ---
-## LAB-09 字典 dict 
+## LAB-09 字典 dict<a id='lab-09'></a> 
 在 Python 中，`dict`（字典）是一種映射型別（Mapping Type），用來存放鍵值對（key-value pairs），並允許快速查找值
 ---
-## LAB-10 條件判斷 if-elif-else
+## LAB-10 條件判斷 if-elif-else<a id='lab-10'></a>
 在 Python 中，`if`、`elif` 和 `else` 用於條件判斷，根據條件的真假來執行不同的程式碼區塊
 
 * 基本語法<br>
@@ -95,9 +95,9 @@
      pass
   ```
 ---
-## LAB-11 迴圈 for, while, break, continue
+## LAB-11 迴圈 for, while, break, continue<a id='lab-11'></a>
 ---
-## LAB-12 函式 def
+## LAB-12 函式 def<a id='lab-12'></a>
 在 Python 中，`def` 用於定義函式（Function）
 
 **基本語法**
@@ -110,7 +110,7 @@ def 函式名稱(參數1, 參數2, ...):
 
 有回傳值的函式，稱為 function 
 ---
-## LAB-13 模組 import, from, as
+## LAB-13 模組 import, from, as<a id='lab-13'></a>
 在 Python 中，`import`、`from` 和 `as` 是用來導入模組或套件的關鍵字
 
 |語法|說明|
@@ -130,15 +130,15 @@ def 函式名稱(參數1, 參數2, ...):
 + `import *` 導入整個模組
 + 函式或變數取別名，影響其他人檢視程式
 ---
-# LAB-14 2024立法委員選舉資料
+# LAB-14 2024立法委員選舉資料<a id='lab-14'></a>
 
 * 瀏覽網頁取得 API URL及解析參數
 * 透過系統內建工具 curl 下載檔案
 * 以 tqdm 顯示下載檔案進程
 ---
-## LAB-15 2024 總統選舉資料
+## LAB-15 2024 總統選舉資料<a id='lab-15'></a>
 ---
-## LAB-16 Python 下載網頁
+## LAB-16 Python 下載網頁<a id='lab-16'></a>
 
 * 使用 requests.get() 取得網頁內容
 * 使用 open() 開新檔籍儲存
@@ -153,14 +153,14 @@ def 函式名稱(參數1, 參數2, ...):
 * [Google Gemini](https://g.co/gemini/share/7910d428b59d)
 * [Claude AI](https://claude.ai/share/aba9d3a0-aac0-4e0e-ade5-2befa1f0e3aa)
 ---
-## LAB-17 使用 Pandas 合併 CSV
+## LAB-17 使用 Pandas 合併 CSV<a id='lab-17'></a>
 * 使用 glob.glob(*.csv) 讀取目錄下所有 CSV 檔
 * 使用 Pandas.read_csv() 讀取 CSV 檔為 DataFrame
 * 使用 Pandas.concat() 合併 DataFrame
 * 使用 DataFrame.to_csv() 儲存為 CSV 檔
 * 搭配 tqdm 顯示讀檔進程
 ---
-# LAB-18-01 產生交易測試資料(Claude AI)
+# LAB-18-01 產生交易測試資料<a id='lab-18'></a>
 使用 AI 產出交易測試資料   
 [Claude AI 生成結果](https://claude.ai/share/56c5df98-8018-4069-9488-19cdb2f6e600)  
 [ChatGPT 生成結果](https://chatgpt.com/share/67d3ae88-af20-8009-962a-522bf6aff7d3)  
@@ -181,9 +181,9 @@ def 函式名稱(參數1, 參數2, ...):
 * "回傳碼" 為 "0000" 佔比約為 99%
 ```
 ---
-## LAB-19 資料集檢視及清理
+## LAB-19 資料集檢視及清理<a id='lab-19'></a>
 ---
-## LAB-20 班佛定律 Benford's Law
+## LAB-20 班佛定律 Benford's Law<a id='lab-20'></a>
 
 **班佛定律**，也被稱為第一位數法則，是一個關於在許多真實世界數據集中，首位數字出現頻率的觀察。 簡單來說，它指出數字 1 出現為首位數字的機率約為 30%，而數字 9 出現為首位數字的機率則小於 5%。
 
@@ -192,9 +192,9 @@ def 函式名稱(參數1, 參數2, ...):
 * 非均勻分佈： 與直覺相反，數字 1 到 9 並非以相同的機率作為數據集中的首位數字。
 * 對數分佈： 班佛定律指出，首位數字 d 出現的機率，可以用以下公式計算： P(d) = log10(1 + 1/d)
 ---
-## LAB-21 直方圖及熱度圖
+## LAB-21 直方圖及熱度圖<a id='lab-21'></a>
 ---
-## LAB-22 2024 立法委員選舉結果
+## LAB-22 2024 立法委員選舉結果<a id='lab-22'></a>
 
 1. 資料來源： [中央選舉委員會-選舉及公投資料庫](https://db.cec.gov.tw/ElecTable/Election?type=Legislator) [[下載]](https://db.cec.gov.tw/static/elections/data/attachments/ELC/L0/e06c04a91fcb0bb3f9a563fe93395ad5/e06c04a91fcb0bb3f9a563fe93395ad5.zip)
 2. Pandas.read_excel() 讀取 Excel 檔
