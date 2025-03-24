@@ -2,26 +2,26 @@
 1. [LAB-03 Python Keyword]([#lab-03-python-keyword)
 2. [LAB-04 字串 str](#lab-04-%E5%AD%97%E4%B8%B2-str)
 3. [LAB-05 格式化字串 f-string, format()](#lab-05-%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E4%B8%B2-f-string--format)
-4. [LAB-06 數值型別](#lab-06-數值型別)
-5. LAB-07 序列型別 range, tuple, list
-6. [LAB-08 集合 set](#lab-08-集合-set)
-7. LAB-09 字典 dict
-8. LAB-10 條件判斷 if-elif-else
-9. LAB-11 迴圈 for, while, break, continue
-10. LAB-12 函式 def
-11. LAB-13 模組 import, from, as
-12. LAB-14 2024 立法委員選舉資料
-13. LAB-15 2024 總統選舉資料
-14. LAB-16 Python 下載網頁
-15. LAB-17 使用 Pandas 合併 CSV
-16. LAB-18-01 產生交易測試資料(Claude AI)
+4. [LAB-06 數值型別](#lab-06-%E6%95%B8%E5%80%BC%E5%9E%8B%E5%88%A5)
+5. [LAB-07 序列型別 range, tuple, list](#lab-07-%E5%BA%8F%E5%88%97%E5%9E%8B%E5%88%A5-range-tuple-list)
+6. [LAB-08 集合 set](#lab-08-%E9%9B%86%E5%90%88-set)
+7. [LAB-09 字典 dict](#lab-09-%E5%AD%97%E5%85%B8-dict)
+8. [LAB-10 條件判斷 if-elif-else](#lab-10-%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7-if-elif-else)
+9. [LAB-11 迴圈 for, while, break, continue](#lab-11-%E8%BF%B4%E5%9C%88-for-while-break-continue)
+10. [LAB-12 函式 def](#lab-12-%E5%87%BD%E5%BC%8F-def)
+11. [LAB-13 模組 import, from, as](#lab-13-%E6%A8%A1%E7%B5%84-import-from-as)
+12. [LAB-14 2024 立法委員選舉資料](#lab-14-2024%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E8%B3%87%E6%96%99)
+13. [LAB-15 2024 總統選舉資料](#lab-15-2024-%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89%E8%B3%87%E6%96%99)
+14. [LAB-16 Python 下載網頁](#lab-16-python-%E4%B8%8B%E8%BC%89%E7%B6%B2%E9%A0%81)
+15. [LAB-17 使用 Pandas 合併 CSV](#lab-17-%E4%BD%BF%E7%94%A8-pandas-%E5%90%88%E4%BD%B5-csv)
+16. [LAB-18-01 產生交易測試資料(Claude AI)](#lab-18-01-%E7%94%A2%E7%94%9F%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6%E8%B3%87%E6%96%99claude-ai)
     LAB-18-02 產生交易測試資料(ChatGPT)
     LAB-18-03 產生交易測試資料(Gemini)
-17. LAB-19 資料及檢視及清理
-18. LAB-20 班佛定律 Benford's Law
-19. LAB-21 直方圖及熱度圖
-20. LAB-22 立法委員選舉結果
-21. LAB-23 DataFrame Merge & Drill Down
+17. [LAB-19 資料及檢視及清理](#lab-19-%E8%B3%87%E6%96%99%E9%9B%86%E6%AA%A2%E8%A6%96%E5%8F%8A%E6%B8%85%E7%90%86)
+18. [LAB-20 班佛定律 Benford's Law](#lab-20-%E7%8F%AD%E4%BD%9B%E5%AE%9A%E5%BE%8B-benfords-law)
+19. [LAB-21 直方圖及熱度圖](#lab-21-%E7%9B%B4%E6%96%B9%E5%9C%96%E5%8F%8A%E7%86%B1%E5%BA%A6%E5%9C%96)
+20. [LAB-22 立法委員選舉結果](#lab-22-2024-%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C)
+21. [LAB-23 DataFrame Merge & Drill Down](#lab-23-dataframe-merge--drill-down)
     
 ---
 ## LAB-03 Python Keyword 
