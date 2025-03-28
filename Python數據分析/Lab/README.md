@@ -20,6 +20,8 @@
 19. [LAB-21 直方圖及熱度圖](#lab-21)
 20. [LAB-22 立法委員選舉結果](#lab-22)
 21. [LAB-23 DataFrame Merge & Drill Down](#lab-23)
+22. [LAB-24 Open Data 第三方支付公司登記資料](#lab-24)
+23. [LAB-25 稽核抽樣](#lab-25)
     
 ---
 ## LAB-03 Python Keyword<a id='lab-03'></a>
@@ -348,3 +350,35 @@ def 函式名稱(參數1, 參數2, ...):
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/5f25f642-617d-4bfe-8427-accbc9620de0" />  
 <br><br>
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/49a2089a-0edd-461c-be9c-04d21e6e19ba" />  
+
+## LAB-24 Open Data 第三方支付公司登記資料 <a id='lab-24'></a>
+
+1. 資料來源：政府開放資料平台<br>
+  [公司登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/22184)<br>
+  [商業登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/108381)<br>
+2. 資料下載網址：<br>
+  公司登記 https://data.gcis.nat.gov.tw/od/file?oid=993D3D8B-3993-4279-9A09-0746EB35062B <br>
+  商業登記 https://data.gcis.nat.gov.tw/od/file?oid=702A3D64-EC36-49E4-8605-738033B8B231 <br>
+3. 「公司登記」與「商業登記」的區別 -> [Gemini](https://g.co/gemini/share/783116509616)
+4. 使用 requests 下載 CSV
+5. 資料清理：統編、日期
+6. 檢查資料關聯(relationship)
+7. 新增計算欄位：縣市
+8. 檢查重複
+9. 資料分析及mapping轉換
+10. 合併資料集
+11. 儲存資料清理結果
+
+<img width="1357" alt="image" src="https://github.com/user-attachments/assets/89be2db0-7e64-4c1d-a345-749988ffd9df" />
+
+
+---
+## LAB-25 稽核抽樣 <a id='lab-25'></a>
+
+1. 簡單隨機抽樣（simple random sampling）
+2. 系統抽樣（systematic sampling）
+3. 分層抽樣（stratified sampling）
+4. 整群抽樣（cluster sampling）
+5. 使用 DataFrame.smaple() 抽樣
+6. 統計抽樣結果
+7. 儲存 Excel
