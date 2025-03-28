@@ -56,12 +56,12 @@
 * 運算及函式調用
 * 格式化數值
 * 對齊與填充
-* 巢狀 f-string
+* 巢狀 `f-string`
 * 日期與時間格式
 * 原始字串(避免跳脫字元)
-* 運行時計算(lambda)
+* 運行時計算(`lambda`)
 * 變數名稱自動插入
-* 多行 f-string
+* 多行 `f-string`
 
 > 所有日期時間格式，請參考 [ChatGPT](https://chatgpt.com/share/67d26a82-6da0-8009-927b-7f1ed54ac694)
 ---
@@ -104,15 +104,15 @@
 ## LAB-09 字典 dict<a id='lab-09'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-09.ipynb)
 在 Python 中，`dict`（字典）是一種映射型別（Mapping Type），用來存放鍵值對（key-value pairs），並允許快速查找值
 
-* 宣告 {} , dict(), zip(), dict.fromkeys()
+* 宣告 `{}` , `dict()`, `zip()`, `dict.fromkeys()`
 * 訪問及修改
   + 新增 
   + 修改
-  + 刪除鍵值 del 或 pop()
-  + 合併 update() 或 | 
-  + 複製 copy()
-  + 清空 clear()
-* 迭代(迴圈之使用) for-in
+  + 刪除鍵值 `del` 或 `pop()`
+  + 合併 `update()` 或 `|` 
+  + 複製 `copy()`
+  + 清空 `clear()`
+* 迭代(迴圈之使用) `for-in`
   + key-value
   + keys
   + values
@@ -186,11 +186,11 @@ def 函式名稱(參數1, 參數2, ...):
 
 **建議**  
 + Python 內建模組可沿用，不需別名
-+ 第三分模組取別名，以避免名稱衝突
++ 第三方模組取別名，以避免名稱衝突
 
 **不建議** 
 + `import *` 導入整個模組
-+ 函式或變數取別名，影響其他人檢視程式
++ 將內建或通用函式、變數取別名，影響其他人檢視程式
 
 * 導入整個模組 import
 * 從模組中導入特定函式或變數
@@ -214,13 +214,13 @@ def 函式名稱(參數1, 參數2, ...):
 ---
 ## LAB-15 2024 總統選舉資料<a id='lab-15'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-15.ipynb)
 * 同 LAB-14 
-* 帶入不同 electionCode
+* 帶入不同 **electionCode**
 ---
 ## LAB-16 Python 下載網頁<a id='lab-16'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-16.ipynb)
 
-* 使用 requests.get() 取得網頁內容
-* 使用 open() 開新檔籍儲存
-* 使用 tqdm 顯示下載進度條
+* 使用 `requests.get()` 取得網頁內容
+* 使用 `open()` 開新檔籍儲存
+* 使用 `tqdm` 顯示下載進度條
 
 程式範例根據 Claude AI 改寫  
 
@@ -232,11 +232,11 @@ def 函式名稱(參數1, 參數2, ...):
 * [Claude AI](https://claude.ai/share/aba9d3a0-aac0-4e0e-ade5-2befa1f0e3aa)
 ---
 ## LAB-17 使用 Pandas 合併 CSV<a id='lab-17'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-17.ipynb)
-* 使用 glob.glob(*.csv) 讀取目錄下所有 CSV 檔
-* 使用 Pandas.read_csv() 讀取 CSV 檔為 DataFrame
-* 使用 Pandas.concat() 合併 DataFrame
-* 使用 DataFrame.to_csv() 儲存為 CSV 檔
-* 搭配 tqdm 顯示讀檔進程
+* 使用 `glob.glob(*.csv)` 讀取目錄下所有 CSV 檔
+* 使用 `read_csv()` 讀取 CSV 檔為 DataFrame
+* 使用 `concat()` 合併 DataFrame
+* 使用 `to_csv()` 儲存為 CSV 檔
+* 搭配 `tqdm` 顯示讀檔進程
 ---
 # LAB-18-01 產生交易測試資料<a id='lab-18'></a> 
 使用 AI 產出交易測試資料   
@@ -292,7 +292,7 @@ def 函式名稱(參數1, 參數2, ...):
 ---
 ## LAB-21 直方圖及熱度圖<a id='lab-21'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-21.ipynb)
 * 資料為 LAB-18 產生之測試資料
-* matplotlib 中文字型設定
+* `matplotlib` 中文字型設定
 * 統計及檢視數值分布
 * 直方圖
 * 直方圖 + 累計%
@@ -381,6 +381,6 @@ def 函式名稱(參數1, 參數2, ...):
 2. 系統抽樣（systematic sampling）
 3. 分層抽樣（stratified sampling）
 4. 整群抽樣（cluster sampling）
-5. 使用 DataFrame.smaple() 抽樣
+5. 使用 `DataFrame.smaple()` 抽樣
 6. 統計抽樣結果
 7. 儲存 Excel
