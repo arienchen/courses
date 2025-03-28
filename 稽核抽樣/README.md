@@ -66,3 +66,6 @@ AICPA Audit Sampling: Audit Guide Table 11-3
 * [系統抽樣](./EXCEL/商業登記－系統抽樣.xlsx)
 * [群集抽樣](./EXCEL/商業登記－群集抽樣.xlsx)
 
+### Python Jupyter Notebook
+* [LAB-24 Open Data 第三方支付公司登記資料](../Python數據分析/Lab/lab-24.ipynb)
+* [LAB-25 抽樣](../Python數據分析/Lab/lab-25.ipynb)
