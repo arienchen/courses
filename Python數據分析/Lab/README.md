@@ -1,4 +1,6 @@
-# LAB 實作
+## LAB 實作
+最後更新：2025/03/28
+
 1. [LAB-03 Python Keyword](#lab-03)
 2. [LAB-04 字串 str](#lab-04)
 3. [LAB-05 格式化字串 f-string, format()](#lab-05)
@@ -21,10 +23,10 @@
 20. [LAB-22 立法委員選舉結果](#lab-22)
 21. [LAB-23 DataFrame Merge & Drill Down](#lab-23)
 22. [LAB-24 Open Data 第三方支付公司登記資料](#lab-24)
-23. [LAB-25 稽核抽樣](#lab-25)
+23. [LAB-25 抽樣](#lab-25)
     
 ---
-## LAB-03 Python Keyword<a id='lab-03'></a>
+## LAB-03 Python Keyword<a id='lab-03'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-03.ipynb)
 * 使用 `keyword` 模組，列出 Python 保留字
 * `import` 指令
 * `for` 迴圈
@@ -38,7 +40,7 @@
   + 清除所有程式格的輸出
   + 儲存為 PDF
 --- 
-## LAB-04 字串 str<a id='lab-04'></a>
+## LAB-04 字串 str<a id='lab-04'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-04.ipynb)
 * 字串基本操作
 * 大小寫轉換
 * 去空白及填入
@@ -49,7 +51,7 @@
 
 > 有關格式化字串 f-string 或 `format()` 之用法，請參考 LAB-05
 ---
-## LAB-05 格式化字串 f-string , format()<a id='lab-05'></a>
+## LAB-05 格式化字串 f-string , format()<a id='lab-05'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-05.ipynb)
 * 基本語法
 * 運算及函式調用
 * 格式化數值
@@ -63,7 +65,7 @@
 
 > 所有日期時間格式，請參考 [ChatGPT](https://chatgpt.com/share/67d26a82-6da0-8009-927b-7f1ed54ac694)
 ---
-## LAB-06 數值型別<a id='lab-06'></a>
+## LAB-06 數值型別<a id='lab-06'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-06.ipynb)
 * 整數 `int` 
 * 浮點數 `float` 
 * 複數 `complex`
@@ -74,7 +76,7 @@
     
 > 數值運算子，請參考 [ChatGPT](https://claude.ai/share/6c58ddad-1a79-4dae-a398-72773428faec)
 ---
-## LAB-07 序列型別 range, tuple, list<a id='lab-07'></a>
+## LAB-07 序列型別 range, tuple, list<a id='lab-07'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-07.ipynb)
 
 |型別|可變性|宣告方式|用途|
 |---|---|---|---|
@@ -84,7 +86,7 @@
 
 > 一般是以 `list` 作為 `array` 操作，當有大量數值運算時，才會使用如 `numpy.array()`
 ---
-## LAB-08 集合 set<a id='lab-08'></a>
+## LAB-08 集合 set<a id='lab-08'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-08.ipynb)
 在 Python 中，`set` 是一種無序且不重複的資料集合型別。它**不允許有重複**的元素，並且常常用來進行數學上的集合運算（例如聯集、交集、差集等）
 
 * 宣告
@@ -99,7 +101,7 @@
 * 清空集合 `clear()` 
 * 迴圈 `for-in` 
 ---
-## LAB-09 字典 dict<a id='lab-09'></a> 
+## LAB-09 字典 dict<a id='lab-09'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-09.ipynb)
 在 Python 中，`dict`（字典）是一種映射型別（Mapping Type），用來存放鍵值對（key-value pairs），並允許快速查找值
 
 * 宣告 {} , dict(), zip(), dict.fromkeys()
@@ -115,7 +117,7 @@
   + keys
   + values
 ---
-## LAB-10 條件判斷 if-elif-else<a id='lab-10'></a>
+## LAB-10 條件判斷 if-elif-else<a id='lab-10'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-10.ipynb)
 在 Python 中，`if`、`elif` 和 `else` 用於條件判斷，根據條件的真假來執行不同的程式碼區塊
 
 **基本語法**<br>
@@ -144,13 +146,13 @@ else:
    pass
 ```
 ---
-## LAB-11 迴圈 for, while, break, continue<a id='lab-11'></a>
+## LAB-11 迴圈 for, while, break, continue<a id='lab-11'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-11.ipynb)
 * `for` 迴圈： 搭配序列，如：`list`, `tuple`, `range` 或 `set`, `dict`
 * `while` 迴圈： 執行至到條件符合 `False` 或 `break`
 * `break` 中斷： 退出整個迴圈
 * `continue` 繼續： 跳過當前程式區塊，直接進入下一次迴圈
 ---
-## LAB-12 函式 def<a id='lab-12'></a>
+## LAB-12 函式 def<a id='lab-12'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-12.ipynb)
 在 Python 中，`def` 用於定義函式（Function）
 
 **基本語法**
@@ -170,7 +172,7 @@ def 函式名稱(參數1, 參數2, ...):
 * Lambda(匿名函式)
 * 函式作為參數
 ---
-## LAB-13 模組 import, from, as<a id='lab-13'></a>
+## LAB-13 模組 import, from, as<a id='lab-13'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-13.ipynb)
 在 Python 中，`import`、`from` 和 `as` 是用來導入模組或套件的關鍵字
 
 |語法|說明|
@@ -195,7 +197,7 @@ def 函式名稱(參數1, 參數2, ...):
 * 導入模組內所有函式與變數(不推薦)
 * 給模組或函式取別名
 ---
-## LAB-14 2024立法委員選舉資料<a id='lab-14'></a>
+## LAB-14 2024立法委員選舉資料<a id='lab-14'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-14.ipynb)
 * 瀏覽網頁取得 API、URL及查詢參數
 * 透過系統內建工具 `curl` 下載檔案
 * 以 `tqdm` 顯示下載檔案進程
@@ -210,11 +212,11 @@ def 函式名稱(參數1, 參數2, ...):
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/52a10252-e2e7-41d3-b5c8-767fc93a99d7" />
 
 ---
-## LAB-15 2024 總統選舉資料<a id='lab-15'></a>
+## LAB-15 2024 總統選舉資料<a id='lab-15'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-15.ipynb)
 * 同 LAB-14 
 * 帶入不同 electionCode
 ---
-## LAB-16 Python 下載網頁<a id='lab-16'></a>
+## LAB-16 Python 下載網頁<a id='lab-16'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-16.ipynb)
 
 * 使用 requests.get() 取得網頁內容
 * 使用 open() 開新檔籍儲存
@@ -229,18 +231,18 @@ def 函式名稱(參數1, 參數2, ...):
 * [Google Gemini](https://g.co/gemini/share/7910d428b59d)
 * [Claude AI](https://claude.ai/share/aba9d3a0-aac0-4e0e-ade5-2befa1f0e3aa)
 ---
-## LAB-17 使用 Pandas 合併 CSV<a id='lab-17'></a>
+## LAB-17 使用 Pandas 合併 CSV<a id='lab-17'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-17.ipynb)
 * 使用 glob.glob(*.csv) 讀取目錄下所有 CSV 檔
 * 使用 Pandas.read_csv() 讀取 CSV 檔為 DataFrame
 * 使用 Pandas.concat() 合併 DataFrame
 * 使用 DataFrame.to_csv() 儲存為 CSV 檔
 * 搭配 tqdm 顯示讀檔進程
 ---
-# LAB-18-01 產生交易測試資料<a id='lab-18'></a>
+# LAB-18-01 產生交易測試資料<a id='lab-18'></a> 
 使用 AI 產出交易測試資料   
-[Claude AI 生成結果](https://claude.ai/share/56c5df98-8018-4069-9488-19cdb2f6e600)  
-[ChatGPT 生成結果](https://chatgpt.com/share/67d3ae88-af20-8009-962a-522bf6aff7d3)  
-[Gemini 生成結果](https://g.co/gemini/share/98c8f58be3a6)   
+[Claude AI 生成結果](https://claude.ai/share/56c5df98-8018-4069-9488-19cdb2f6e600) [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-18-01.ipynb) 
+[ChatGPT 生成結果](https://chatgpt.com/share/67d3ae88-af20-8009-962a-522bf6aff7d3) [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-18-02.ipynb) 
+[Gemini 生成結果](https://g.co/gemini/share/98c8f58be3a6) [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-18-03.ipynb)
 
 **提示詞**
 ```
@@ -258,7 +260,7 @@ def 函式名稱(參數1, 參數2, ...):
 * "回傳碼" 為 "0000" 佔比約為 99%
 ```
 ---
-## LAB-19 資料集檢視及清理<a id='lab-19'></a>
+## LAB-19 資料集檢視及清理<a id='lab-19'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-19.ipynb)
 * 資料檔為使用 LAB-17 合併之選舉資料
 * 資料筆數及欄位數
 * 檢核空值及清理
@@ -270,7 +272,7 @@ def 函式名稱(參數1, 參數2, ...):
 * 異常值篩選
 * 另存 CSV 或 Excel
 ---
-## LAB-20 班佛定律 Benford's Law<a id='lab-20'></a>
+## LAB-20 班佛定律 Benford's Law<a id='lab-20'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-20.ipynb)
 
 **班佛定律**，也被稱為第一位數法則，是一個關於在許多真實世界數據集中，首位數字出現頻率的觀察。 簡單來說，它指出數字 1 出現為首位數字的機率約為 30%，而數字 9 出現為首位數字的機率則小於 5%。
 
@@ -288,7 +290,7 @@ def 函式名稱(參數1, 參數2, ...):
 <img width="386" alt="image" src="https://github.com/user-attachments/assets/e6f5b54d-d0ea-49e1-8bf8-213492228afd" />  
 
 ---
-## LAB-21 直方圖及熱度圖<a id='lab-21'></a>
+## LAB-21 直方圖及熱度圖<a id='lab-21'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-21.ipynb)
 * 資料為 LAB-18 產生之測試資料
 * matplotlib 中文字型設定
 * 統計及檢視數值分布
@@ -306,7 +308,7 @@ def 函式名稱(參數1, 參數2, ...):
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/70a006b7-dc9d-488c-b75c-fbace4308239" />  
 
 ---
-## LAB-22 2024 立法委員選舉結果<a id='lab-22'></a>
+## LAB-22 2024 立法委員選舉結果<a id='lab-22'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-22.ipynb)
 
 1. 資料來源： [中央選舉委員會-選舉及公投資料庫](https://db.cec.gov.tw/ElecTable/Election?type=Legislator) [[下載]](https://db.cec.gov.tw/static/elections/data/attachments/ELC/L0/e06c04a91fcb0bb3f9a563fe93395ad5/e06c04a91fcb0bb3f9a563fe93395ad5.zip)
 2. Pandas.read_excel() 讀取 Excel 檔
@@ -333,7 +335,7 @@ def 函式名稱(參數1, 參數2, ...):
 <img width="398" alt="image" src="https://github.com/user-attachments/assets/109a9b8b-34a5-4364-b0b3-a07624973ac5" />  
 
 ---
-## LAB-23 DataFrame Merge & Drill Down <a id='lab-23'></a>
+## LAB-23 DataFrame Merge & Drill Down <a id='lab-23'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-23.ipynb)
 
 1. 由 Jupyter 檢查套件是否已安裝
 2. 設定 Pandas 顯示資料的欄位數及筆數
@@ -351,7 +353,7 @@ def 函式名稱(參數1, 參數2, ...):
 <br><br>
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/49a2089a-0edd-461c-be9c-04d21e6e19ba" />  
 
-## LAB-24 Open Data 第三方支付公司登記資料 <a id='lab-24'></a>
+## LAB-24 Open Data 第三方支付公司登記資料 <a id='lab-24'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-24.ipynb)
 
 1. 資料來源：政府開放資料平台<br>
   [公司登記(依營業項目別)－第三方支付服務業](https://data.gov.tw/dataset/22184)<br>
@@ -373,7 +375,7 @@ def 函式名稱(參數1, 參數2, ...):
 
 
 ---
-## LAB-25 稽核抽樣 <a id='lab-25'></a>
+## LAB-25 抽樣 <a id='lab-25'></a> [:paperclip:](https://github.com/arienchen/courses/blob/main/Python數據分析/Lab/lab-25.ipynb)
 
 1. 簡單隨機抽樣（simple random sampling）
 2. 系統抽樣（systematic sampling）
